@@ -46,6 +46,43 @@
       ],
       "createdAt": "2026-06-11T05:52:08",
       "updatedAt": "2026-06-11T05:52:08"
+    },
+    {
+      "id": "29f4ee5209c04ff08567afdd29807989",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324",
+        "Tên Bưu cục": "32432",
+        "Họ và tên người sử dụng": "324",
+        "Mã HRM": "23432",
+        "Bộ phận / Phòng ban": "23432",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BACNINH2",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2V",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "11.9 GB",
+        "Ổ cứng": "446 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.16.141.165",
+        "MAC Address": "1C:1B:0D:B3:38:47"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "3245324",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T06:58:00",
+      "updatedAt": "2026-06-11T06:58:00"
     }
   ]
 }
