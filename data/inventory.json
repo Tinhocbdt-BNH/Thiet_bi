@@ -5134,6 +5134,37 @@
       ],
       "createdAt": "2026-06-12T11:04:12",
       "updatedAt": "2026-06-12T11:04:12"
+    },
+    {
+      "id": "c32de4e3352b4a0c9d68db50ff29c7cd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "221413",
+        "Tên Bưu cục": "KHL Yên Phong",
+        "Họ và tên người sử dụng": "Nghiêm Thị Toán",
+        "Mã HRM": "00005133",
+        "Bộ phận / Phòng ban": "KHL Yên Phong",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BNH-BDHYP-KHL05",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2V470T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "583 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.8.113",
+        "MAC Address": "B8:85:84:B1:1F:EF"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T11:05:40",
+      "updatedAt": "2026-06-12T11:05:40"
     }
   ]
 }
