@@ -3287,6 +3287,53 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:38:50",
       "updatedAt": "2026-06-12T08:38:50"
+    },
+    {
+      "id": "35db7f49564c44bbacdb8ed493dd055f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "233650",
+        "Tên Xã": "Bưu Điện Đình Kim",
+        "Mã Bưu cục": "2336",
+        "Tên Bưu cục": "Bưu Cục Đình Kim",
+        "Họ và tên người sử dụng": "Đỗ Thị Thu Huyền",
+        "Mã HRM": "00228830",
+        "Bộ phận / Phòng ban": "KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-LNG-DINHKIM",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G3240 @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.18",
+        "MAC Address": "38:2C:4A:BA:14:2D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:38:33",
+      "updatedAt": "2026-06-12T08:38:33"
     }
   ]
 }
