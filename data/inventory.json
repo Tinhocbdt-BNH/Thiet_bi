@@ -519,6 +519,53 @@
       ],
       "createdAt": "2026-06-12T04:06:22",
       "updatedAt": "2026-06-12T04:06:22"
+    },
+    {
+      "id": "152556ea5a9942dd8c36ee33e9be0e94",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "231150",
+        "Tên Bưu cục": "HÀNH CHÍNH CÔNG",
+        "Họ và tên người sử dụng": "LE THU HƯỜNG",
+        "Mã HRM": "0002702",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN PHƯỜNG BẮC GIANG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-TP-HCC-M03",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.109",
+        "MAC Address": "E0:D5:5E:71:22:9E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASERTJET PRO M402D",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "APOS",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DSS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:07:56",
+      "updatedAt": "2026-06-12T04:07:56"
     }
   ]
 }
