@@ -4541,6 +4541,43 @@
       ],
       "createdAt": "2026-06-12T10:32:19",
       "updatedAt": "2026-06-12T10:32:19"
+    },
+    {
+      "id": "fb978c1ea561430b92802e7df6a7dbc3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "234700",
+        "Tên Bưu cục": "Yên thế",
+        "Họ và tên người sử dụng": "Trần Thị Phượng",
+        "Mã HRM": "0003067",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-YT-GD-M02",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Celeron(R) G5905 CPU @ 3.50GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.44.120",
+        "MAC Address": "10:FF:E0:43:0E:A9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:32:54",
+      "updatedAt": "2026-06-12T10:32:54"
     }
   ]
 }
