@@ -843,6 +843,37 @@
       ],
       "createdAt": "2026-06-12T06:28:37",
       "updatedAt": "2026-06-12T06:28:37"
+    },
+    {
+      "id": "37b6e38e30a14669bdebbfc7e437925e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2328",
+        "Tên Xã": "phường chũ",
+        "Mã Bưu cục": "233000",
+        "Tên Bưu cục": "bưu điện phường chũ",
+        "Họ và tên người sử dụng": "hoàng thị Hợi",
+        "Mã HRM": "00002800",
+        "Bộ phận / Phòng ban": "kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "intel",
+        "Loại máy": "",
+        "Hãng": "hp",
+        "Model": "",
+        "Năm sản xuất": "2019",
+        "Serial Number": "",
+        "CPU": "1",
+        "RAM": "",
+        "Ổ cứng": "1",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:04:34",
+      "updatedAt": "2026-06-12T07:04:34"
     }
   ]
 }
