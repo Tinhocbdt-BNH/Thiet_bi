@@ -3871,6 +3871,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T09:04:24",
       "updatedAt": "2026-06-12T09:04:24"
+    },
+    {
+      "id": "f022a68698424609ba5142bff414b9c1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "223428",
+        "Tên Bưu cục": "BCVH GIA BÌNH-LƯƠNG TÀI",
+        "Họ và tên người sử dụng": "ĐÀO THỊ HƯỚNG",
+        "Mã HRM": "00218288",
+        "Bộ phận / Phòng ban": "BCVH GIA BÌNH-LƯƠNG TÀI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDHGB-KHL2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZMB1H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.9.112",
+        "MAC Address": "18:66:DA:05:3E:C5"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T09:04:44",
+      "updatedAt": "2026-06-12T09:04:44"
     }
   ]
 }
