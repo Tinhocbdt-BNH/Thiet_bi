@@ -1564,6 +1564,48 @@
       ],
       "createdAt": "2026-06-12T07:43:30",
       "updatedAt": "2026-06-12T07:43:30"
+    },
+    {
+      "id": "031dd328e11346df91bbc95b2e25d66c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "222440",
+        "Tên Bưu cục": "bcp thuan thanh",
+        "Họ và tên người sử dụng": "vu thi huong ,",
+        "Mã HRM": "00261269",
+        "Bộ phận / Phòng ban": "bc van hanh thuan thanh",
+        "Mã vật tư": "may in",
+        "Tên máy (Hostname)": "BDHTT-KHAITHAC2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "49P9HY2",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "991 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.6.120",
+        "MAC Address": "E4:54:E8:9B:DB:3C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp2055",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:45:58",
+      "updatedAt": "2026-06-12T07:45:58"
     }
   ]
 }
