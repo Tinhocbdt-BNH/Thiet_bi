@@ -1497,48 +1497,6 @@
       ],
       "createdAt": "2026-06-12T07:39:12",
       "updatedAt": "2026-06-12T07:39:12"
-    },
-    {
-      "id": "ef364fcaf38146558ff4262082638789",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "222440",
-        "Tên Bưu cục": "BCP Thuận Thành",
-        "Họ và tên người sử dụng": "Nguyễn Thị Thảo",
-        "Mã HRM": "00004740",
-        "Bộ phận / Phòng ban": "Giám đốc vận hành",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-DUBRHDF",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Pro Mini 400 G9 Desktop PC",
-        "Năm sản xuất": "",
-        "Serial Number": "8CC5231LKQ",
-        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "237 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
-        "Office": "Microsoft Office Professional Plus 2016",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.16.6.115",
-        "MAC Address": "10:B6:76:9E:C8:B4"
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "Canon 3300",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "LDS 2208",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-12T07:41:11",
-      "updatedAt": "2026-06-12T07:41:11"
     }
   ]
 }
