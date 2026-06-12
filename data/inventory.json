@@ -393,6 +393,53 @@
       ],
       "createdAt": "2026-06-12T03:23:47",
       "updatedAt": "2026-06-12T03:23:47"
+    },
+    {
+      "id": "78e5e8d550e84f50a76e00646a4e40f6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "232110",
+        "Tên Bưu cục": "VHX Khám Lạng",
+        "Họ và tên người sử dụng": "nguyễn thị hậu",
+        "Mã HRM": "2222",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-LN-KHAMLANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BD5W8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Standard 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "B8:85:84:AF:5A:70"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Wosim",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "LS 2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T03:43:43",
+      "updatedAt": "2026-06-12T03:43:43"
     }
   ]
 }
