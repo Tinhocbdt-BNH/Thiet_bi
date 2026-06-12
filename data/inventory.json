@@ -2249,6 +2249,48 @@
       ],
       "createdAt": "2026-06-12T08:11:09",
       "updatedAt": "2026-06-12T08:11:09"
+    },
+    {
+      "id": "47537b2a5209431c9cf08181d3f81a47",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "223250",
+        "Tên Bưu cục": "BCVH Gia Binh_Luong Tai",
+        "Họ và tên người sử dụng": "Bùi Đình Thọ",
+        "Mã HRM": "00004773",
+        "Bộ phận / Phòng ban": "BCVH Gia Binh_Luong Tai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BCVH GBLT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2TV70T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "582 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.9.115",
+        "MAC Address": "B8:85:84:B1:29:BF"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:12:28",
+      "updatedAt": "2026-06-12T08:12:28"
     }
   ]
 }
