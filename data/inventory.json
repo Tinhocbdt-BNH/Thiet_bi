@@ -712,6 +712,43 @@
       ],
       "createdAt": "2026-06-12T04:31:52",
       "updatedAt": "2026-06-12T04:31:52"
+    },
+    {
+      "id": "aaf7132c69c042feb82deef83d6e5576",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "222450",
+        "Tên Bưu cục": "P Mão Điền",
+        "Họ và tên người sử dụng": "Đinh Thị Phượng",
+        "Mã HRM": "00004855",
+        "Bộ phận / Phòng ban": "GĐ Bưu điện xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-8SIDD7G",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "34W8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.16.6.214",
+        "MAC Address": "F8:BC:12:A5:7E:C3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP 2035",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:42:45",
+      "updatedAt": "2026-06-12T04:42:45"
     }
   ]
 }
