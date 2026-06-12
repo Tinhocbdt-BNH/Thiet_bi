@@ -5055,6 +5055,48 @@
       ],
       "createdAt": "2026-06-12T10:58:35",
       "updatedAt": "2026-06-12T10:58:35"
+    },
+    {
+      "id": "0a120f7025f84eb4ba16970dd1e299c1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "234700",
+        "Tên Bưu cục": "yên thế",
+        "Họ và tên người sử dụng": "hà thị bình",
+        "Mã HRM": "0000",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-3IRH4JI",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132LP",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "232 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.44.124",
+        "MAC Address": "38:22:E2:18:8D:56"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "honeyewll",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T11:02:30",
+      "updatedAt": "2026-06-12T11:02:30"
     }
   ]
 }
