@@ -356,6 +356,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T03:20:38",
       "updatedAt": "2026-06-12T03:20:38"
+    },
+    {
+      "id": "01aa5d5dc2974e65ae2457fe605561de",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "LẠNG GIANG",
+        "Tên Xã": "LẠNG GIANG",
+        "Mã Bưu cục": "2340",
+        "Tên Bưu cục": "BC LẠNG GIANG",
+        "Họ và tên người sử dụng": "NGUYỄN THU HẰNG",
+        "Mã HRM": "00003354",
+        "Bộ phận / Phòng ban": "GIÁM ĐỐC BD XÃ LẠNG GIANG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-M9O9SJU",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "470 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.100",
+        "MAC Address": "D8:5E:D3:92:3F:D9"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T03:23:47",
+      "updatedAt": "2026-06-12T03:23:47"
     }
   ]
 }
