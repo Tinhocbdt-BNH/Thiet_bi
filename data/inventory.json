@@ -1961,6 +1961,43 @@
       ],
       "createdAt": "2026-06-12T08:02:15",
       "updatedAt": "2026-06-12T08:02:15"
+    },
+    {
+      "id": "89c648f6b9414a41bbd8fb4c26e0cef0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2333",
+        "Tên Xã": "Biên Sơn",
+        "Mã Bưu cục": "233340",
+        "Tên Bưu cục": "vhx Biên sơn",
+        "Họ và tên người sử dụng": "Hà Thị  Chanh",
+        "Mã HRM": "00002819",
+        "Bộ phận / Phòng ban": "VHX BIÊN SƠN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "IDEEL",
+        "Loại máy": "",
+        "Hãng": "DEEL",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "1",
+        "RAM": "",
+        "Ổ cứng": "1",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:02:31",
+      "updatedAt": "2026-06-12T08:02:31"
     }
   ]
 }
