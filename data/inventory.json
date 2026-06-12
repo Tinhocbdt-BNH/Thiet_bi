@@ -1188,6 +1188,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:27:17",
       "updatedAt": "2026-06-12T07:27:17"
+    },
+    {
+      "id": "03b2be1a68284a2ba82a7b738d56083b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "233160",
+        "Tên Bưu cục": "BCVH CHŨ LỤC NGẠN",
+        "Họ và tên người sử dụng": "ĐÀO QUANG TUYÊN",
+        "Mã HRM": "00271252",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-GE355E8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LMV",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.40.118",
+        "MAC Address": "10:B6:76:9E:C8:53"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:29:55",
+      "updatedAt": "2026-06-12T07:29:55"
     }
   ]
 }
