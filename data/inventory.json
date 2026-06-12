@@ -796,6 +796,53 @@
       ],
       "createdAt": "2026-06-12T06:27:17",
       "updatedAt": "2026-06-12T06:27:17"
+    },
+    {
+      "id": "bb473736ac7d4171982d893940b113b3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "231150",
+        "Tên Bưu cục": "HÀNH CHÍNH CÔNG",
+        "Họ và tên người sử dụng": "PHAN THỊ MINH TIẾN",
+        "Mã HRM": "00003387",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDTP-HCCMAYCHU",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "CMW4CD2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "453 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.5.232",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LaserJet Pro M402d",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "APOS 4708",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T06:28:37",
+      "updatedAt": "2026-06-12T06:28:37"
     }
   ]
 }
