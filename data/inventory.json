@@ -2066,6 +2066,48 @@
       ],
       "createdAt": "2026-06-12T08:05:51",
       "updatedAt": "2026-06-12T08:05:51"
+    },
+    {
+      "id": "19d748b49ccb4b2db85bed6451b205f3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "220100",
+        "Tên Bưu cục": "BC KTVC BN2",
+        "Họ và tên người sử dụng": "Nguyen Thi Minh Tram",
+        "Mã HRM": "00005014",
+        "Bộ phận / Phòng ban": "BC KTVC BN2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BNH-TTKTVC6",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011335K",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22621",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.141.133",
+        "MAC Address": "38:22:E2:18:91:25"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Honeywell",
+          "serial": "349C25A0005"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": "20198523701013"
+        }
+      ],
+      "createdAt": "2026-06-12T08:05:18",
+      "updatedAt": "2026-06-12T08:05:18"
     }
   ]
 }
