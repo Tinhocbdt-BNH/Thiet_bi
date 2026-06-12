@@ -3194,6 +3194,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:37:55",
       "updatedAt": "2026-06-12T08:37:55"
+    },
+    {
+      "id": "05d112cf05ba4d59a2b49ce10e3d59ad",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "234060",
+        "Tên Bưu cục": "bcp lạng giang",
+        "Họ và tên người sử dụng": "PHAM THỊ HÀ",
+        "Mã HRM": "00002938",
+        "Bộ phận / Phòng ban": "BCVH LANG GIANG BẮC NINH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-5NFPAGA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LP0",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Avast Antivirus",
+        "IP Address": "10.21.42.110",
+        "MAC Address": "F8:ED:FC:6A:6F:BD"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:38:27",
+      "updatedAt": "2026-06-12T08:38:27"
     }
   ]
 }
