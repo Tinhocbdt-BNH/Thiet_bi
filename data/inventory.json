@@ -3064,6 +3064,43 @@
       ],
       "createdAt": "2026-06-12T08:35:21",
       "updatedAt": "2026-06-12T08:35:21"
+    },
+    {
+      "id": "77ba8e1207d44f66922e7cd5b2a04a95",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "222440",
+        "Tên Xã": "BCP Thuận Thành",
+        "Mã Bưu cục": "222440",
+        "Tên Bưu cục": "BCP Thuận Thành",
+        "Họ và tên người sử dụng": "Ngô Xuân Du",
+        "Mã HRM": "00004995",
+        "Bộ phận / Phòng ban": "BCVH Thuận Thành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-J1R3FQ0",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LV8",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.16.6.116",
+        "MAC Address": "F8:ED:FC:6A:71:09"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:35:31",
+      "updatedAt": "2026-06-12T08:35:31"
     }
   ]
 }
