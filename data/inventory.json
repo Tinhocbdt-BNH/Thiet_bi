@@ -2432,6 +2432,43 @@
       ],
       "createdAt": "2026-06-12T08:19:00",
       "updatedAt": "2026-06-12T08:19:00"
+    },
+    {
+      "id": "c1333c3e19c74ca1a83ff78546f1ce00",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2336",
+        "Tên Xã": "phượng sơn",
+        "Mã Bưu cục": "233540",
+        "Tên Bưu cục": "vhx quý sơn",
+        "Họ và tên người sử dụng": "nguyễn thị vân",
+        "Mã HRM": "00002848",
+        "Bộ phận / Phòng ban": "vhx Qúy Sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LG",
+        "Loại máy": "",
+        "Hãng": "LG",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "1",
+        "RAM": "",
+        "Ổ cứng": "1",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "CANON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:19:10",
+      "updatedAt": "2026-06-12T08:19:10"
     }
   ]
 }
