@@ -3699,6 +3699,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:56:07",
       "updatedAt": "2026-06-12T08:56:07"
+    },
+    {
+      "id": "d55a8934d19f4d419d8a93c1f3b9c894",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "bưu điện lạng giang",
+        "Tên Xã": "Lạng Giang",
+        "Mã Bưu cục": "234000",
+        "Tên Bưu cục": "lạng giang",
+        "Họ và tên người sử dụng": "hoàng thị thu huyền",
+        "Mã HRM": "00214980",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TK-LANGGIANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq Pro 4300 SFF PC",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH316PJY8",
+        "CPU": "Intel(R) Celeron(R) CPU G1610 @ 2.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.21.42.109",
+        "MAC Address": "78:E3:B5:BF:8F:BE"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T03:00:28",
+      "updatedAt": "2026-06-12T03:00:28"
     }
   ]
 }
