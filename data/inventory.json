@@ -4578,6 +4578,48 @@
       ],
       "createdAt": "2026-06-12T10:32:54",
       "updatedAt": "2026-06-12T10:32:54"
+    },
+    {
+      "id": "6175f81f8ab147578553483aef80f554",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "234700",
+        "Tên Bưu cục": "yên thế",
+        "Họ và tên người sử dụng": "hà thị bình",
+        "Mã HRM": "0003075",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-YT-GD-TK",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE73749SL",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Standard 2013 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.44.111",
+        "MAC Address": "3C:52:82:55:E9:52"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "đầu lọc có dây zebra ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:36:19",
+      "updatedAt": "2026-06-12T10:36:19"
     }
   ]
 }
