@@ -2469,6 +2469,37 @@
       ],
       "createdAt": "2026-06-12T08:19:10",
       "updatedAt": "2026-06-12T08:19:10"
+    },
+    {
+      "id": "7598d238445a42db8a15812435ff2781",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "233610",
+        "Tên Bưu cục": "VHX Nam Dương",
+        "Họ và tên người sử dụng": "Nguyễn Văn Tùng",
+        "Mã HRM": "00252676",
+        "Bộ phận / Phòng ban": "VHX Nam Dương",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LNG-KT-M02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE73749KZ",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.15",
+        "MAC Address": "3C:52:82:53:3F:7A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:23:30",
+      "updatedAt": "2026-06-12T08:23:30"
     }
   ]
 }
