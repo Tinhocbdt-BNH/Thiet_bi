@@ -4662,6 +4662,43 @@
       ],
       "createdAt": "2026-06-12T10:36:40",
       "updatedAt": "2026-06-12T10:36:40"
+    },
+    {
+      "id": "bc86c0d1dede465caf540b2ab939882f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "2347",
+        "Tên Bưu cục": "BC VH YÊN THẾ",
+        "Họ và tên người sử dụng": "LÊ THỊ HƯƠNG MAI",
+        "Mã HRM": "0000",
+        "Bộ phận / Phòng ban": "BC VẬN HÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-YT-BCP-M02",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7C13",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.44.102",
+        "MAC Address": "00:D8:61:5C:58:71"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASER JET PRO M404DW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:40:49",
+      "updatedAt": "2026-06-12T10:40:49"
     }
   ]
 }
