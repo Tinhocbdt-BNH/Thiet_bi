@@ -1387,6 +1387,43 @@
       ],
       "createdAt": "2026-06-12T07:37:50",
       "updatedAt": "2026-06-12T07:37:50"
+    },
+    {
+      "id": "14fafae27d724fccb2b7b178f87e5af0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "232500",
+        "Tên Bưu cục": "BCGD Sơn Động",
+        "Họ và tên người sử dụng": "Hoàng Như Đức",
+        "Mã HRM": "00253272",
+        "Bộ phận / Phòng ban": "BCX Sơn Động",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-SD-GD1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "40P81H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.39.9",
+        "MAC Address": "48:4D:7E:DB:77:71"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon LBP2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:39:05",
+      "updatedAt": "2026-06-12T07:39:05"
     }
   ]
 }
