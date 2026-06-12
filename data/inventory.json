@@ -4741,6 +4741,48 @@
       ],
       "createdAt": "2026-06-12T10:44:12",
       "updatedAt": "2026-06-12T10:44:12"
+    },
+    {
+      "id": "8bbe0a9b09094c5ebfeaf66869ade11d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "2347",
+        "Tên Bưu cục": "BC VH YÊN THẾ",
+        "Họ và tên người sử dụng": "Dương việt phú",
+        "Mã HRM": "00000",
+        "Bộ phận / Phòng ban": "BC VẬN HÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-YT-GD-M05",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.44.134",
+        "MAC Address": "E0:D5:5E:39:28:4B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "honeywell pc45d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebrads22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:44:41",
+      "updatedAt": "2026-06-12T10:44:41"
     }
   ]
 }
