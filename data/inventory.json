@@ -1345,6 +1345,48 @@
       ],
       "createdAt": "2026-06-12T07:34:48",
       "updatedAt": "2026-06-12T07:34:48"
+    },
+    {
+      "id": "4a216502646e43c09a54f96266119e5c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "235000",
+        "Tên Bưu cục": "VHX Đồng Kỳ",
+        "Họ và tên người sử dụng": "Triệu Hương",
+        "Mã HRM": "222",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDYT-DONGKY-M01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BD2T8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "125 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22621",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "B8:85:84:B1:4B:51"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "X printer 470",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:37:50",
+      "updatedAt": "2026-06-12T07:37:50"
     }
   ]
 }
