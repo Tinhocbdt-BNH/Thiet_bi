@@ -2500,6 +2500,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:23:30",
       "updatedAt": "2026-06-12T08:23:30"
+    },
+    {
+      "id": "8c314c72068249a695fbb4c44e0efa72",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "222918",
+        "Tên Bưu cục": "Bưu điện KCN Quế Võ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim",
+        "Mã HRM": "00004915",
+        "Bộ phận / Phòng ban": "BC VH Quế Võ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-H63RNOQ",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LKT",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.16.146.29",
+        "MAC Address": "10:B6:76:9E:C8:B3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "điền tên máy in nhé, e chỉ có máy in nhiệt thôi",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:21:09",
+      "updatedAt": "2026-06-12T08:21:09"
     }
   ]
 }
