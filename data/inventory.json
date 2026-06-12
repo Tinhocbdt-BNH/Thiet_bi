@@ -120,6 +120,48 @@
       ],
       "createdAt": "2026-06-12T01:38:56",
       "updatedAt": "2026-06-12T01:38:56"
+    },
+    {
+      "id": "21c29ec1930441e284ba73a8925652cb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "232530",
+        "Tên Bưu cục": "BCP Sơn Động",
+        "Họ và tên người sử dụng": "La Thị Tâm",
+        "Mã HRM": "00002803",
+        "Bộ phận / Phòng ban": "BCVH Sơn Động",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-SD-CAMDAN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LPC",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.21.39.115",
+        "MAC Address": "F8:ED:FC:6A:6F:B8"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T02:36:56",
+      "updatedAt": "2026-06-12T02:36:56"
     }
   ]
 }
