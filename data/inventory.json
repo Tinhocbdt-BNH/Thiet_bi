@@ -5323,6 +5323,53 @@
       ],
       "createdAt": "2026-06-12T12:16:06",
       "updatedAt": "2026-06-12T12:16:06"
+    },
+    {
+      "id": "25288ce0864d4270b050fd8354cdf648",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "234250",
+        "Tên Bưu cục": "VHX Tiên Lục",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hằng",
+        "Mã HRM": "123",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-LG-TIENLUC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.114",
+        "MAC Address": "10:FF:E0:45:01:75"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "DS 4278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T13:42:17",
+      "updatedAt": "2026-06-12T13:42:17"
     }
   ]
 }
