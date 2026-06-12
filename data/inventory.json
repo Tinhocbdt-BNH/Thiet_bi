@@ -942,6 +942,43 @@
       ],
       "createdAt": "2026-06-12T07:10:15",
       "updatedAt": "2026-06-12T07:10:15"
+    },
+    {
+      "id": "8a824ad0618e42b9896059c18971f1ab",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "233000",
+        "Tên Bưu cục": "BƯU ĐIỆN PHƯỜNG CHŨ",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ KHÁNH",
+        "Mã HRM": "00002801",
+        "Bộ phận / Phòng ban": "NV TCBL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "",
+        "Hãng": "HP",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "1",
+        "RAM": "",
+        "Ổ cứng": "1",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:11:24",
+      "updatedAt": "2026-06-12T07:11:24"
     }
   ]
 }
