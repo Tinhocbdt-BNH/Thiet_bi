@@ -162,6 +162,43 @@
       ],
       "createdAt": "2026-06-12T02:36:56",
       "updatedAt": "2026-06-12T02:36:56"
+    },
+    {
+      "id": "b57455aaa03849fea96d676fd6026f71",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BCVH YÊN DŨNG",
+        "Tên Xã": "PHƯỜNG YÊN DŨNG",
+        "Mã Bưu cục": "237290",
+        "Tên Bưu cục": "BCVH YÊN DŨNG",
+        "Họ và tên người sử dụng": "PHAN THỊ THU LOAN",
+        "Mã HRM": "00003229",
+        "Bộ phận / Phòng ban": "BCCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "TriGem Computer, Inc.",
+        "Model": "DREAMSYS",
+        "Năm sản xuất": "",
+        "Serial Number": "N/A",
+        "CPU": "Intel(R) Pentium(R) CPU G3240 @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "577 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.47.110",
+        "MAC Address": "00:01:2E:53:A5:C0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T02:43:35",
+      "updatedAt": "2026-06-12T02:43:35"
     }
   ]
 }
