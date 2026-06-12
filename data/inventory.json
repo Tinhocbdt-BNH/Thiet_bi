@@ -5244,6 +5244,43 @@
       ],
       "createdAt": "2026-06-12T11:53:02",
       "updatedAt": "2026-06-12T11:53:02"
+    },
+    {
+      "id": "241d9c6ff1c14a2db21cf20d84b7ac6d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "235630",
+        "Tên Xã": "NGỌC THIỆN",
+        "Mã Bưu cục": "235630",
+        "Tên Bưu cục": "NGỌC CHÂU",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ XUYẾN",
+        "Mã HRM": "00115100",
+        "Bộ phận / Phòng ban": "GIÁM ĐỐC XÃ NGỌC THIỆN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDTY-NGOCCHAU",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B4BT8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26100",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.5.191",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "HONEYWELL-PC45D",
+          "serial": "359C25S0096"
+        }
+      ],
+      "createdAt": "2026-06-12T12:00:48",
+      "updatedAt": "2026-06-12T12:00:48"
     }
   ]
 }
