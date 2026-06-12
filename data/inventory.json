@@ -2657,6 +2657,37 @@
       ],
       "createdAt": "2026-06-12T08:23:55",
       "updatedAt": "2026-06-12T08:23:55"
+    },
+    {
+      "id": "59642da6504e4f9588f868f639bdc78a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Lâm Thao",
+        "Mã Bưu cục": "223720",
+        "Tên Bưu cục": "VHX Bình Định",
+        "Họ và tên người sử dụng": "Hoàng Thị Thu Hiền",
+        "Mã HRM": "00004810",
+        "Bộ phận / Phòng ban": "NV bưu điện vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDHLT-VHXBINHDI",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BW9H8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.12",
+        "MAC Address": "18:66:DA:28:A9:08"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:25:18",
+      "updatedAt": "2026-06-12T08:25:18"
     }
   ]
 }
