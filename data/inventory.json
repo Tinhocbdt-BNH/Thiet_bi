@@ -4352,6 +4352,43 @@
       ],
       "createdAt": "2026-06-12T10:22:03",
       "updatedAt": "2026-06-12T10:22:03"
+    },
+    {
+      "id": "c8758cd4c0ba4c8dae61e307b0a2e99c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "233430",
+        "Tên Bưu cục": "VHX Kiên Thành",
+        "Họ và tên người sử dụng": "Nguyễn Thị Huế",
+        "Mã HRM": "00002831",
+        "Bộ phận / Phòng ban": "Vhx Kiên Thành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LNG-KIENTHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-HD2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "E0:D5:5E:87:F0:87"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:24:30",
+      "updatedAt": "2026-06-12T10:24:30"
     }
   ]
 }
