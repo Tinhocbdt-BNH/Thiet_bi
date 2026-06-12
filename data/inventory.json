@@ -749,6 +749,53 @@
       ],
       "createdAt": "2026-06-12T04:42:45",
       "updatedAt": "2026-06-12T04:42:45"
+    },
+    {
+      "id": "fd4b5529362045d5b4b4ef9d0d33e322",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "231150",
+        "Tên Bưu cục": "hành chính công",
+        "Họ và tên người sử dụng": "ĐỖ THỊ MINH LOAN",
+        "Mã HRM": "00267687",
+        "Bộ phận / Phòng ban": "BƯU CỤC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-TP-HCC-M01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "G8K2B92",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.112",
+        "MAC Address": "64:00:6A:39:09:2F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASERJET PRO M402d",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "APOS 470B",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL 1450G",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T06:27:17",
+      "updatedAt": "2026-06-12T06:27:17"
     }
   ]
 }
