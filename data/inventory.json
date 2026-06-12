@@ -3842,35 +3842,35 @@
       "updatedAt": "2026-06-12T09:03:22"
     },
     {
-      "id": "676b9ceae73e4b12a5b19542c0b01c27",
+      "id": "2698641088304e27926d09db04da866d",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "222813",
-        "Tên Bưu cục": "Khách hàng lớn Quế Võ",
-        "Họ và tên người sử dụng": "Nguyễn Thế Quý",
-        "Mã HRM": "0004935",
-        "Bộ phận / Phòng ban": ".",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "BDHQV-KHAITHAC3",
-        "Loại máy": "Desktop",
-        "Hãng": "LENOVO",
-        "Model": "10NMA00CVA",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "PC0RTZ6C",
-        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
-        "RAM": "11.9 GB",
-        "Ổ cứng": "200 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Professional Plus 2010",
-        "Antivirus": "Windows Defender, Kaspersky Internet Security, Kaspersky Endpoint Security for Windows, Kaspersky Internet Security",
-        "IP Address": "10.16.4.220",
-        "MAC Address": "6C:4B:90:48:54:4D"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-12T09:04:16",
-      "updatedAt": "2026-06-12T09:04:16"
+      "createdAt": "2026-06-12T09:04:24",
+      "updatedAt": "2026-06-12T09:04:24"
     }
   ]
 }
