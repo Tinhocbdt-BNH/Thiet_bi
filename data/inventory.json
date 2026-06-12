@@ -1052,6 +1052,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:12:58",
       "updatedAt": "2026-06-12T07:12:58"
+    },
+    {
+      "id": "231d4889188247a299515187dd90e79c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2328",
+        "Tên Xã": "Phường Chũ",
+        "Mã Bưu cục": "233000",
+        "Tên Bưu cục": "Bưu điện phường Chũ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thanh Phương",
+        "Mã HRM": "00253385",
+        "Bộ phận / Phòng ban": "kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "dell",
+        "Loại máy": "",
+        "Hãng": "dell",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "1",
+        "RAM": "1",
+        "Ổ cứng": "1",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "hp",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:13:27",
+      "updatedAt": "2026-06-12T07:13:27"
     }
   ]
 }
