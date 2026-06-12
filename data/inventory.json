@@ -4898,6 +4898,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T10:50:46",
       "updatedAt": "2026-06-12T10:50:46"
+    },
+    {
+      "id": "da6d463609c9486eb7ef826f23f507de",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "233400",
+        "Tên Bưu cục": "BĐ Xã Tân Sơn",
+        "Họ và tên người sử dụng": "Nguyễn Thị Ninh",
+        "Mã HRM": "00242513",
+        "Bộ phận / Phòng ban": "BĐ xã Tân Sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LNG-TANSON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "317D0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "130 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.5.53",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:52:12",
+      "updatedAt": "2026-06-12T10:52:12"
     }
   ]
 }
