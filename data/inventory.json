@@ -1888,6 +1888,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:59:56",
       "updatedAt": "2026-06-12T07:59:56"
+    },
+    {
+      "id": "f7ae31cb79b64e4a8a48dd1079c7344e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "220100",
+        "Tên Bưu cục": "BC KTVC BN2",
+        "Họ và tên người sử dụng": "Nguyen Thi Minh Tram",
+        "Mã HRM": "00005014",
+        "Bộ phận / Phòng ban": "BC KTVC BN2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BNH-TTKTVC9",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3050",
+        "Năm sản xuất": "",
+        "Serial Number": "6F2Z0L2",
+        "CPU": "Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "582 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.141.139",
+        "MAC Address": "D8:9E:F3:0B:01:86"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:01:32",
+      "updatedAt": "2026-06-12T08:01:32"
     }
   ]
 }
