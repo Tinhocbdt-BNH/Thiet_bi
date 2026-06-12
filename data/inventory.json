@@ -4504,6 +4504,43 @@
       ],
       "createdAt": "2026-06-12T10:31:58",
       "updatedAt": "2026-06-12T10:31:58"
+    },
+    {
+      "id": "8d9ff13350b24c01a4372e203818f7c8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "222170",
+        "Tên Bưu cục": "Bưu cục vận hành Từ Sơn",
+        "Họ và tên người sử dụng": "Nguyễn Bích Hoàng",
+        "Mã HRM": "00251114",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành Từ Sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-FI68ED2",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LFW",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Avast Antivirus",
+        "IP Address": "10.21.57.156",
+        "MAC Address": "F8:ED:FC:6A:6F:F3"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:32:19",
+      "updatedAt": "2026-06-12T10:32:19"
     }
   ]
 }
