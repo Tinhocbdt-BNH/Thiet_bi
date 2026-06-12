@@ -5008,6 +5008,53 @@
       "attachments": [],
       "createdAt": "2026-06-12T10:56:34",
       "updatedAt": "2026-06-12T10:56:34"
+    },
+    {
+      "id": "163262b7fb714d1ab075053cb8cd7c56",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "221413",
+        "Tên Bưu cục": "KHL Yên Phong",
+        "Họ và tên người sử dụng": "NGhiêm Thị Toán",
+        "Mã HRM": "00005133",
+        "Bộ phận / Phòng ban": "KHL Yên Phong",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "090794",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2V5F0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "11.8 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.16.8.117",
+        "MAC Address": "B8:85:84:B1:28:CD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZD 620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "LS 2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:58:35",
+      "updatedAt": "2026-06-12T10:58:35"
     }
   ]
 }
