@@ -3767,6 +3767,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:58:54",
       "updatedAt": "2026-06-12T08:58:54"
+    },
+    {
+      "id": "90fa5d1e78d74dd588edd894efc4192b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "223250",
+        "Tên Bưu cục": "BCVH Gia Bình- Lương Tài",
+        "Họ và tên người sử dụng": "nguyễn thị lệ thúy",
+        "Mã HRM": "00004718",
+        "Bộ phận / Phòng ban": "BCVH Gia Bình- Lương Tài",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDHGB-BCP2",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 800 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "MXL5430YR5",
+        "CPU": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.9.113",
+        "MAC Address": "50:65:F3:2A:14:A0"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T09:01:39",
+      "updatedAt": "2026-06-12T09:01:39"
     }
   ]
 }
