@@ -1784,6 +1784,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:57:00",
       "updatedAt": "2026-06-12T07:57:00"
+    },
+    {
+      "id": "f16d04f907ff4ae6ba8f44739d248e77",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "233110",
+        "Tên Bưu cục": "bc Lim",
+        "Họ và tên người sử dụng": "Phạm Văn Tới",
+        "Mã HRM": "00263215",
+        "Bộ phận / Phòng ban": "GĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-G7CNIAB",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH432QCP7",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "689 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "C4:34:6B:4E:B6:36"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:59:08",
+      "updatedAt": "2026-06-12T07:59:08"
     }
   ]
 }
