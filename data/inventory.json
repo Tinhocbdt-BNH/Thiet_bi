@@ -1815,6 +1815,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:59:08",
       "updatedAt": "2026-06-12T07:59:08"
+    },
+    {
+      "id": "db80e044956a42efb0ead40045077261",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "220100",
+        "Tên Bưu cục": "BC KTVC BN2",
+        "Họ và tên người sử dụng": "Bui Thi Thu Huong",
+        "Mã HRM": "00005290",
+        "Bộ phận / Phòng ban": "BC KTVC BN2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-G11G10J",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LJH",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.16.141.135",
+        "MAC Address": "F8:ED:FC:6A:6F:D8"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "GK420d",
+          "serial": "28J163400106"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:59:27",
+      "updatedAt": "2026-06-12T07:59:27"
     }
   ]
 }
