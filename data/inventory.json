@@ -288,6 +288,43 @@
       ],
       "createdAt": "2026-06-12T02:51:39",
       "updatedAt": "2026-06-12T02:51:39"
+    },
+    {
+      "id": "680ed2949062449f9465fbaae5e2d511",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "23708",
+        "Tên Xã": "PHƯỜNG  TÂN  AN",
+        "Mã Bưu cục": "237345",
+        "Tên Bưu cục": "VHX  CHỢ  QUỲNH",
+        "Họ và tên người sử dụng": "HOÀNG  THỊ  PHƯƠNG",
+        "Mã HRM": "00245535",
+        "Bộ phận / Phòng ban": "KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DELL",
+        "Loại máy": "SYMBOL",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T03:05:53",
+      "updatedAt": "2026-06-12T03:05:53"
     }
   ]
 }
