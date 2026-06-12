@@ -4462,6 +4462,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T10:31:20",
       "updatedAt": "2026-06-12T10:31:20"
+    },
+    {
+      "id": "5cabad276ffa4adb9234d448144371cf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "222170",
+        "Tên Xã": "đông ngàn",
+        "Mã Bưu cục": "222170",
+        "Tên Bưu cục": "bưu cục vận hành từ sơn",
+        "Họ và tên người sử dụng": "nguyễn đắc liệu",
+        "Mã HRM": "00005069",
+        "Bộ phận / Phòng ban": "bưu cục vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TUSON-BCP",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 800 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "MXL5430YW6",
+        "CPU": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.57.115",
+        "MAC Address": "50:65:F3:28:DB:E1"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:31:58",
+      "updatedAt": "2026-06-12T10:31:58"
     }
   ]
 }
