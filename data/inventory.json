@@ -4012,6 +4012,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T09:21:54",
       "updatedAt": "2026-06-12T09:21:54"
+    },
+    {
+      "id": "85ade15dd47146b0984dcdd56dd4f84a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "232830",
+        "Tên Xã": "Dương hưu",
+        "Mã Bưu cục": "232500",
+        "Tên Bưu cục": "Bưu cục sơn động",
+        "Họ và tên người sử dụng": "Lộc Thị Chúc",
+        "Mã HRM": "00100008",
+        "Bộ phận / Phòng ban": "VHX DƯƠNG HƯU",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "STARTVIEW",
+        "Loại máy": "MÁY TÍNH CÂY",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T09:23:59",
+      "updatedAt": "2026-06-12T09:23:59"
     }
   ]
 }
