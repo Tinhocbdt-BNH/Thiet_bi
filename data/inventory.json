@@ -440,6 +440,48 @@
       ],
       "createdAt": "2026-06-12T03:43:43",
       "updatedAt": "2026-06-12T03:43:43"
+    },
+    {
+      "id": "2e71601b452440299b51ab195fc743fa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BCVH LẠNG GIANG",
+        "Tên Xã": "LẠNG GIANG",
+        "Mã Bưu cục": "234060",
+        "Tên Bưu cục": "BCVH LẠNG GIANG",
+        "Họ và tên người sử dụng": "LÊ THỊ THẢO",
+        "Mã HRM": "00094816",
+        "Bộ phận / Phòng ban": "KHAI THÁC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDLG-KT-MAY08",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G3220 @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.42.112",
+        "MAC Address": "08:62:66:86:53:13"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T03:43:45",
+      "updatedAt": "2026-06-12T03:43:45"
     }
   ]
 }
