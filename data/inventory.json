@@ -1486,6 +1486,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:42:11",
       "updatedAt": "2026-06-12T07:42:11"
+    },
+    {
+      "id": "611d5c2c2420429bba29200ecc1f48d1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Gia Bình",
+        "Tên Xã": "Gia Bình",
+        "Mã Bưu cục": "223200",
+        "Tên Bưu cục": "Gia Bình",
+        "Họ và tên người sử dụng": "Trịnh Thị Hiền",
+        "Mã HRM": "00004722",
+        "Bộ phận / Phòng ban": "Kiểm Soát Viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-3T69G6L",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B14G862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.16.9.118",
+        "MAC Address": "64:00:6A:01:E6:24"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:43:13",
+      "updatedAt": "2026-06-12T07:43:13"
     }
   ]
 }
