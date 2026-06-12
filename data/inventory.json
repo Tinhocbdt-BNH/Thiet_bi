@@ -325,6 +325,37 @@
       ],
       "createdAt": "2026-06-12T03:05:53",
       "updatedAt": "2026-06-12T03:05:53"
+    },
+    {
+      "id": "d1c37cec06d541a0870ef2fdd0d98703",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "234000",
+        "Tên Bưu cục": "Lạng Giang",
+        "Họ và tên người sử dụng": "Lành Quỳnh Trang",
+        "Mã HRM": "00084636",
+        "Bộ phận / Phòng ban": "BHXH-BHYT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-AQA7BFM",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B52N8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.42.152",
+        "MAC Address": "B8:85:84:B1:29:EC"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T03:20:38",
+      "updatedAt": "2026-06-12T03:20:38"
     }
   ]
 }
