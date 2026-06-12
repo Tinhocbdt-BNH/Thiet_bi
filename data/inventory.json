@@ -4820,6 +4820,53 @@
       ],
       "createdAt": "2026-06-12T10:46:36",
       "updatedAt": "2026-06-12T10:46:36"
+    },
+    {
+      "id": "5d3cc24753d44bd7ab91d4b6eaf74652",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "2347",
+        "Tên Bưu cục": "BC VH YÊN THẾ",
+        "Họ và tên người sử dụng": "LÊ THỊ HƯƠNG MAI",
+        "Mã HRM": "00000",
+        "Bộ phận / Phòng ban": "BC VẬN HÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DIGITAL-WORLD",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22624",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.44.131",
+        "MAC Address": "B4:2E:99:53:90:73"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASERJRT PRO M203DN",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZWBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:48:42",
+      "updatedAt": "2026-06-12T10:48:42"
     }
   ]
 }
