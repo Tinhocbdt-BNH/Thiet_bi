@@ -3668,6 +3668,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:51:51",
       "updatedAt": "2026-06-12T08:51:51"
+    },
+    {
+      "id": "1e40fa84df2f4a638fc157be15bcf7db",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "234000",
+        "Tên Bưu cục": "BC LẠNG GIANG",
+        "Họ và tên người sử dụng": "LÊ THỊ LOAN",
+        "Mã HRM": "00002939",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN XÃ LẠNG GIANG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-LG-GD-M02",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821181883",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.5.109",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:56:07",
+      "updatedAt": "2026-06-12T08:56:07"
     }
   ]
 }
