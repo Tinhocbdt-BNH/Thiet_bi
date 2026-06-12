@@ -5207,6 +5207,43 @@
       ],
       "createdAt": "2026-06-12T11:20:12",
       "updatedAt": "2026-06-12T11:20:12"
+    },
+    {
+      "id": "a473e651fe714f07805346bcc7320433",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "220100",
+        "Tên Bưu cục": "BC KTVC BN2",
+        "Họ và tên người sử dụng": "Hoàng Thị Thu Sơn",
+        "Mã HRM": "00005245",
+        "Bộ phận / Phòng ban": "BC KTVC BN2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDTPBN-GDV06",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3010",
+        "Năm sản xuất": "",
+        "Serial Number": "78V6HY1",
+        "CPU": "Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.141.197",
+        "MAC Address": "C8:1F:66:49:8E:34"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP P2035",
+          "serial": "VNC3673142"
+        }
+      ],
+      "createdAt": "2026-06-12T11:53:02",
+      "updatedAt": "2026-06-12T11:53:02"
     }
   ]
 }
