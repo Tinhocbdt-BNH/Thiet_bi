@@ -199,6 +199,48 @@
       ],
       "createdAt": "2026-06-12T02:43:35",
       "updatedAt": "2026-06-12T02:43:35"
+    },
+    {
+      "id": "654e67de8c794b01b3a5e520365c1969",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "237210",
+        "Tên Bưu cục": "BCVH YÊN DŨNG",
+        "Họ và tên người sử dụng": "ĐỖ THỊ THU",
+        "Mã HRM": "00248434",
+        "Bộ phận / Phòng ban": "KHL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-YD-GD-M02",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "CMWXBD2",
+        "CPU": "Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19044",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Avast Antivirus",
+        "IP Address": "10.21.47.117",
+        "MAC Address": "64:00:6A:47:F5:06"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER XP - 470B",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T02:50:08",
+      "updatedAt": "2026-06-12T02:50:08"
     }
   ]
 }
