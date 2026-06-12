@@ -905,6 +905,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:07:25",
       "updatedAt": "2026-06-12T07:07:25"
+    },
+    {
+      "id": "ba12fc655ea4465abab293fdca9e8f65",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2328",
+        "Tên Xã": "Phường Chũ",
+        "Mã Bưu cục": "233000",
+        "Tên Bưu cục": "Bưu Điện Phường Chũ",
+        "Họ và tên người sử dụng": "Phan Thị Hoa",
+        "Mã HRM": "00249827",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "POSBANK",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "1",
+        "RAM": "1",
+        "Ổ cứng": "1",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:10:15",
+      "updatedAt": "2026-06-12T07:10:15"
     }
   ]
 }
