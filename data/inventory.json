@@ -1424,6 +1424,37 @@
       ],
       "createdAt": "2026-06-12T07:39:05",
       "updatedAt": "2026-06-12T07:39:05"
+    },
+    {
+      "id": "48d57c53bb05484989c494c4568332a9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "232500",
+        "Tên Bưu cục": "Giao dịch Sơn Động",
+        "Họ và tên người sử dụng": "Lê Thị Liên",
+        "Mã HRM": "00070955",
+        "Bộ phận / Phòng ban": "Bưu điện Sơn Động",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-SD-GD2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3VX91H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.39.39",
+        "MAC Address": "48:4D:7E:DB:80:2E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:38:23",
+      "updatedAt": "2026-06-12T07:38:23"
     }
   ]
 }
