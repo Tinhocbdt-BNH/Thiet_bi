@@ -2589,6 +2589,37 @@
       ],
       "createdAt": "2026-06-12T08:22:29",
       "updatedAt": "2026-06-12T08:22:29"
+    },
+    {
+      "id": "e71869b0b6df4271af79412a9ef3450d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "222880",
+        "Tên Bưu cục": "BCVH Quế Võ",
+        "Họ và tên người sử dụng": "Hoàng Thị Thanh Bình",
+        "Mã HRM": "00004904",
+        "Bộ phận / Phòng ban": "Tổ phát",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDHQV-BCP2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2Z150T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "110 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.4.110",
+        "MAC Address": "B8:85:84:B1:43:DD"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:23:41",
+      "updatedAt": "2026-06-12T08:23:41"
     }
   ]
 }
