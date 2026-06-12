@@ -979,6 +979,48 @@
       ],
       "createdAt": "2026-06-12T07:11:24",
       "updatedAt": "2026-06-12T07:11:24"
+    },
+    {
+      "id": "4c4cd5bba1d546619587db60bb5b6dd9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "233000",
+        "Tên Bưu cục": "BƯU ĐIỆN PHƯỜNG CHŨ",
+        "Họ và tên người sử dụng": "HÀ THỊ LUÂN",
+        "Mã HRM": "00228831",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI ĐIỂM PHỤC VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LG",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "1",
+        "RAM": "1",
+        "Ổ cứng": "1",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:15:27",
+      "updatedAt": "2026-06-12T07:15:27"
     }
   ]
 }
