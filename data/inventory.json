@@ -2293,41 +2293,35 @@
       "updatedAt": "2026-06-12T08:12:28"
     },
     {
-      "id": "e270c3f32be444ed9001a388012c126f",
+      "id": "73357a25fc914b3caf53ecb9e2164eb9",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "223250",
-        "Tên Bưu cục": "bưu cục phát gia bình",
-        "Họ và tên người sử dụng": "nguyễn thị thoan",
-        "Mã HRM": "00004721",
-        "Bộ phận / Phòng ban": "bưu cục vận hành Gb-LT",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "GIABINH-DB",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "8CC5231LGD",
-        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "237 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
-        "Office": "Microsoft Office Professional Plus 2016",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.16.9.111",
-        "MAC Address": "10:B6:76:9E:C9:A7"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "barcode_reader",
-          "name": "zebra",
-          "serial": "DS22"
-        }
-      ],
-      "createdAt": "2026-06-12T08:14:03",
-      "updatedAt": "2026-06-12T08:14:03"
+      "attachments": [],
+      "createdAt": "2026-06-12T08:14:06",
+      "updatedAt": "2026-06-12T08:14:06"
     }
   ]
 }
