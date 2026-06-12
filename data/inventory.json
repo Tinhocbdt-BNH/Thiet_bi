@@ -675,6 +675,43 @@
       ],
       "createdAt": "2026-06-12T04:29:33",
       "updatedAt": "2026-06-12T04:29:33"
+    },
+    {
+      "id": "eab695dfc77841c7b8793c8bbb4368e0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "222630",
+        "Tên Bưu cục": "vhx nghĩa đạo",
+        "Họ và tên người sử dụng": "hoàng thị thẫm",
+        "Mã HRM": "2222",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDHTT-VHXNGHIAD",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BVCH8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "122 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "18:66:DA:29:07:2A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP P1102",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T04:31:52",
+      "updatedAt": "2026-06-12T04:31:52"
     }
   ]
 }
