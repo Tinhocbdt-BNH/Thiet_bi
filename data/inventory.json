@@ -4389,6 +4389,48 @@
       ],
       "createdAt": "2026-06-12T10:24:30",
       "updatedAt": "2026-06-12T10:24:30"
+    },
+    {
+      "id": "894ae5e7150948188e253af18fd44ff6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "222100",
+        "Tên Bưu cục": "Giao dịch Từ Sơn",
+        "Họ và tên người sử dụng": "Lê Thị Anh",
+        "Mã HRM": "00005052",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-KN8AO25",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "B360M-D3V",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.57.23",
+        "MAC Address": "E0:D5:5E:B1:4C:E9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "LS 2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:26:56",
+      "updatedAt": "2026-06-12T10:26:56"
     }
   ]
 }
