@@ -1753,6 +1753,37 @@
       ],
       "createdAt": "2026-06-12T07:55:47",
       "updatedAt": "2026-06-12T07:55:47"
+    },
+    {
+      "id": "3de22e63f6564c939b058b5fcaed61fa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "233170",
+        "Tên Bưu cục": "BC BIỂN ĐỘNG",
+        "Họ và tên người sử dụng": "MỄ THỊ THI",
+        "Mã HRM": "00002816",
+        "Bộ phận / Phòng ban": "GD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LNG-BIENDON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3Y141H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.12",
+        "MAC Address": "48:4D:7E:DE:29:1C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:57:00",
+      "updatedAt": "2026-06-12T07:57:00"
     }
   ]
 }
