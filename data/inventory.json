@@ -3559,6 +3559,37 @@
       ],
       "createdAt": "2026-06-12T08:47:06",
       "updatedAt": "2026-06-12T08:47:06"
+    },
+    {
+      "id": "1daaf96476834b9cb8efc796060a3cb5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2315",
+        "Tên Xã": "BẮC LŨNG",
+        "Mã Bưu cục": "232130",
+        "Tên Bưu cục": "YÊN SƠN",
+        "Họ và tên người sử dụng": "VŨ THỊ CHÍNH",
+        "Mã HRM": "00002924",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LUCNAM-KT2",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G2030 @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "583 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "74:D4:35:61:F4:15"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:47:42",
+      "updatedAt": "2026-06-12T08:47:42"
     }
   ]
 }
