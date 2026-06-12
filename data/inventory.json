@@ -4977,6 +4977,37 @@
       ],
       "createdAt": "2026-06-12T10:53:45",
       "updatedAt": "2026-06-12T10:53:45"
+    },
+    {
+      "id": "97aa9215851b4ad294d71fb5e19410a3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "234780",
+        "Tên Bưu cục": "BCP YEN THE",
+        "Họ và tên người sử dụng": "VU THI HUE",
+        "Mã HRM": "000",
+        "Bộ phận / Phòng ban": "BC VAN HANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-YT-GIAODICH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE7374BG8",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.44.112",
+        "MAC Address": "3C:52:82:51:82:BA"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T10:56:34",
+      "updatedAt": "2026-06-12T10:56:34"
     }
   ]
 }
