@@ -3225,6 +3225,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:38:27",
       "updatedAt": "2026-06-12T08:38:27"
+    },
+    {
+      "id": "520f42b01ce4452e9893966c692569a7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "233130",
+        "Tên Bưu cục": "vhx phì điền",
+        "Họ và tên người sử dụng": "hà thị hậu",
+        "Mã HRM": "00002839",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LNG-VHXPD",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011339L",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "38:22:E2:18:8C:75"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:38:42",
+      "updatedAt": "2026-06-12T08:38:42"
     }
   ]
 }
