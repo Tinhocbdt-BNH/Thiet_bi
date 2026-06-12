@@ -1517,6 +1517,53 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:43:13",
       "updatedAt": "2026-06-12T07:43:13"
+    },
+    {
+      "id": "d5357e936a1247c198f048827c4a747b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "220100",
+        "Tên Bưu cục": "BC KTVC BN2",
+        "Họ và tên người sử dụng": "Nghiem Dinh Long",
+        "Mã HRM": "00229673",
+        "Bộ phận / Phòng ban": "BC KTVC BN2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHAITHAC3",
+        "Loại máy": "Desktop",
+        "Hãng": "TRIGEM COMPUTER",
+        "Model": "DG367",
+        "Năm sản xuất": "",
+        "Serial Number": "5027744800001",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.141.124",
+        "MAC Address": "78:F2:9E:F1:56:90"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP P2035",
+          "serial": "VNC4D10387"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Thermal",
+          "serial": "254ALH259090390"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": "25266523700448"
+        }
+      ],
+      "createdAt": "2026-06-12T07:43:30",
+      "updatedAt": "2026-06-12T07:43:30"
     }
   ]
 }
