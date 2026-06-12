@@ -5165,6 +5165,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T11:05:40",
       "updatedAt": "2026-06-12T11:05:40"
+    },
+    {
+      "id": "31bbc2902b3e4cde80479c5c1dfa9be3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "221413",
+        "Tên Bưu cục": "KHL yên Phong",
+        "Họ và tên người sử dụng": "Nguyễn văn Cường",
+        "Mã HRM": "22",
+        "Bộ phận / Phòng ban": "KHL Yên Phong",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BNH-BDHYP-KHL01",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "10NMA00CVA",
+        "Năm sản xuất": "",
+        "Serial Number": "PC0V7EKF",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.8.83",
+        "MAC Address": "6C:4B:90:64:F1:1B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZD 620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "DS2278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T11:20:12",
+      "updatedAt": "2026-06-12T11:20:12"
     }
   ]
 }
