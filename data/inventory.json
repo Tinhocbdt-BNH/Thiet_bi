@@ -2735,6 +2735,53 @@
       ],
       "createdAt": "2026-06-12T08:25:52",
       "updatedAt": "2026-06-12T08:25:52"
+    },
+    {
+      "id": "a7860f85cb63493ea60bd54ac3206b55",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "222880",
+        "Tên Bưu cục": "BCVH Quế Võ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Lộc",
+        "Mã HRM": "00104771",
+        "Bộ phận / Phòng ban": "Tổ Phát",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-RUN70M8",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 800 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "MXL6020S9Z",
+        "CPU": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.4.112",
+        "MAC Address": "50:65:F3:4C:F5:60"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "M404dw",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zebra",
+          "serial": "zd620"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": "d522"
+        }
+      ],
+      "createdAt": "2026-06-12T08:23:57",
+      "updatedAt": "2026-06-12T08:23:57"
     }
   ]
 }
