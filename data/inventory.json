@@ -3809,6 +3809,37 @@
       ],
       "createdAt": "2026-06-12T09:01:39",
       "updatedAt": "2026-06-12T09:01:39"
+    },
+    {
+      "id": "e6662b50fcff4f38b7622686aa42ce2f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Lạng Giang",
+        "Tên Xã": "Lạng Giang",
+        "Mã Bưu cục": "234000",
+        "Tên Bưu cục": "BC LẠNG GIANG",
+        "Họ và tên người sử dụng": "ĐẶNG THỊ TÂM",
+        "Mã HRM": "00102233",
+        "Bộ phận / Phòng ban": "BHCT LẠNG GIANG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-LG-BANHANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "31M70T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.42.154",
+        "MAC Address": "B8:85:84:B1:4D:2F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T09:03:22",
+      "updatedAt": "2026-06-12T09:03:22"
     }
   ]
 }
