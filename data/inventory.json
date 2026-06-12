@@ -5097,6 +5097,43 @@
       ],
       "createdAt": "2026-06-12T11:02:30",
       "updatedAt": "2026-06-12T11:02:30"
+    },
+    {
+      "id": "a895ddf8ba1e4c3eb530658c2fb42e79",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "221510",
+        "Tên Bưu cục": "VHX Yên Trung",
+        "Họ và tên người sử dụng": "`Lưu Thị Thi",
+        "Mã HRM": "00005185",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-949JEKH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BVSG8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Avast Antivirus",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "18:66:DA:28:43:6C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP 2035",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T11:04:12",
+      "updatedAt": "2026-06-12T11:04:12"
     }
   ]
 }
