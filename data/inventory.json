@@ -5370,6 +5370,48 @@
       ],
       "createdAt": "2026-06-12T13:42:17",
       "updatedAt": "2026-06-12T13:42:17"
+    },
+    {
+      "id": "62387522c96a47e18af365d4aec44edb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "235320",
+        "Tên Bưu cục": "BCVH Tân Yên",
+        "Họ và tên người sử dụng": "Phạm Phương Thảo",
+        "Mã HRM": "00003006",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-TY-BCP-M01",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.49.112",
+        "MAC Address": "B4:2E:99:53:8B:A6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T15:10:27",
+      "updatedAt": "2026-06-12T15:10:27"
     }
   ]
 }
