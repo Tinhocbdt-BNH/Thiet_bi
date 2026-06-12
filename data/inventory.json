@@ -2844,6 +2844,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:25:47",
       "updatedAt": "2026-06-12T08:25:47"
+    },
+    {
+      "id": "1557323ca0cb4360bfd42e7756d676dd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "223360",
+        "Tên Bưu cục": "chợ Ngụ",
+        "Họ và tên người sử dụng": "Vũ Thị Ngần",
+        "Mã HRM": "00259065",
+        "Bộ phận / Phòng ban": "BC3",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-89D8A78",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821180849",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.108",
+        "MAC Address": "50:AF:73:38:1F:9C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZD 620",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:28:09",
+      "updatedAt": "2026-06-12T08:28:09"
     }
   ]
 }
