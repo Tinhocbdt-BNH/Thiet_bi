@@ -874,6 +874,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:04:34",
       "updatedAt": "2026-06-12T07:04:34"
+    },
+    {
+      "id": "58d22c0652e749a6a71ef4429cd1140f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "232250",
+        "Tên Bưu cục": "VHX Bình Sơn",
+        "Họ và tên người sử dụng": "Vũ Thị Lự",
+        "Mã HRM": "00002898",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG_LNBINHSON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B9SM8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "B8:85:84:B1:0B:64"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:07:25",
+      "updatedAt": "2026-06-12T07:07:25"
     }
   ]
 }
