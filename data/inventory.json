@@ -1261,6 +1261,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T07:30:34",
       "updatedAt": "2026-06-12T07:30:34"
+    },
+    {
+      "id": "baa67b47a5474e889d9584aace25ef9b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "233160",
+        "Tên Bưu cục": "BCVH CHUŨ LỤC NGẠN",
+        "Họ và tên người sử dụng": "VŨ THỊ MINH",
+        "Mã HRM": "00249116",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LNG-KT-M01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BBYN8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "117 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26100",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.40.117",
+        "MAC Address": "B8:85:84:B1:0A:54"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T07:33:36",
+      "updatedAt": "2026-06-12T07:33:36"
     }
   ]
 }
