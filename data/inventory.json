@@ -2542,6 +2542,53 @@
       ],
       "createdAt": "2026-06-12T08:21:09",
       "updatedAt": "2026-06-12T08:21:09"
+    },
+    {
+      "id": "69a28b40e4834a30a63e88132138b9e8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "220100",
+        "Tên Bưu cục": "Bưu cục KTVC Bắc Ninh 2",
+        "Họ và tên người sử dụng": "Nguyễn Thị Ngọc Hà",
+        "Mã HRM": "00005274",
+        "Bộ phận / Phòng ban": "KT1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHAITHACBN-KT1",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 800 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "MXL5450C3R",
+        "CPU": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.16.141.51",
+        "MAC Address": "50:65:F3:1B:C4:0B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M404dw",
+          "serial": "PHEYC00826"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Thermal",
+          "serial": "254ALH259090389"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:22:29",
+      "updatedAt": "2026-06-12T08:22:29"
     }
   ]
 }
