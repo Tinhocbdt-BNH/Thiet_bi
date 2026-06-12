@@ -2029,6 +2029,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:02:41",
       "updatedAt": "2026-06-12T08:02:41"
+    },
+    {
+      "id": "10547f5e136348888a6ecbc76ab3742a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Lãng Ngâm",
+        "Tên Xã": "Lãng Ngâm",
+        "Mã Bưu cục": "223370",
+        "Tên Bưu cục": "Lãng Ngâm",
+        "Họ và tên người sử dụng": "Nguyễn thị Thỏa",
+        "Mã HRM": "00004547",
+        "Bộ phận / Phòng ban": "GDV xã Lãng Ngâm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDHGB-VHXLANGNG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3W361H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "48:4D:7E:D7:2C:98"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "zebra ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:05:51",
+      "updatedAt": "2026-06-12T08:05:51"
     }
   ]
 }
