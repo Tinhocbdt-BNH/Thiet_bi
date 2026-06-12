@@ -3480,6 +3480,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:43:23",
       "updatedAt": "2026-06-12T08:43:23"
+    },
+    {
+      "id": "f871b27696e848e495dbe7572d50495d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "222918",
+        "Tên Bưu cục": "KCN Quế Võ",
+        "Họ và tên người sử dụng": "Trần Thị Thức",
+        "Mã HRM": "00004940",
+        "Bộ phận / Phòng ban": "BC KCN QUẾ VÕ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-U5VJQJA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LV1",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.16.146.26",
+        "MAC Address": "F8:ED:FC:6A:71:0E"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:46:02",
+      "updatedAt": "2026-06-12T08:46:02"
     }
   ]
 }
