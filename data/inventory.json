@@ -3449,6 +3449,37 @@
       ],
       "createdAt": "2026-06-12T08:41:41",
       "updatedAt": "2026-06-12T08:41:41"
+    },
+    {
+      "id": "38acfd35d9754f839243dd9cd1b9ffb7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "222880",
+        "Tên Bưu cục": "BC VH Quế Võ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim",
+        "Mã HRM": "00004915",
+        "Bộ phận / Phòng ban": "BC VH Quế Võ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-4AQQOUG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "66YBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.16.146.28",
+        "MAC Address": "F8:BC:12:A0:1F:22"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:43:23",
+      "updatedAt": "2026-06-12T08:43:23"
     }
   ]
 }
