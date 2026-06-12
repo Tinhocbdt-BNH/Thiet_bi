@@ -1021,6 +1021,37 @@
       ],
       "createdAt": "2026-06-12T07:15:27",
       "updatedAt": "2026-06-12T07:15:27"
+    },
+    {
+      "id": "43b60262e59143efa5498520bfe5ffae",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "233160",
+        "Tên Bưu cục": "BCVH CHŨ LỤC NGẠN",
+        "Họ và tên người sử dụng": "VŨ THỊ LAN ANH",
+        "Mã HRM": "00113744",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MAYTINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3VB81H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.40.119",
+        "MAC Address": "48:4D:7E:D7:81:17"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T07:12:58",
+      "updatedAt": "2026-06-12T07:12:58"
     }
   ]
 }
