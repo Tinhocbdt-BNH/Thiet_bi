@@ -5584,6 +5584,37 @@
       ],
       "createdAt": "2026-06-13T02:00:35",
       "updatedAt": "2026-06-13T02:00:35"
+    },
+    {
+      "id": "c17fa75a63b84a628a91b33925114596",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2306",
+        "Tên Xã": "Phường Việt Yên",
+        "Mã Bưu cục": "236100",
+        "Tên Bưu cục": "Bưu điện Phường Việt Yên",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thủy",
+        "Mã HRM": "00003176",
+        "Bộ phận / Phòng ban": "NVKD TCBL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-VY-GDM15",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "110-005l",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE31809XM",
+        "CPU": "Intel(R) Celeron(R) CPU G1610T @ 2.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows, Avast Antivirus",
+        "IP Address": "10.21.45.107",
+        "MAC Address": "7C:05:07:26:84:86"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-13T02:32:14",
+      "updatedAt": "2026-06-13T02:32:14"
     }
   ]
 }
