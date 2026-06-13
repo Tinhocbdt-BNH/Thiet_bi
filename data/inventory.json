@@ -5854,35 +5854,35 @@
       "updatedAt": "2026-06-13T03:24:15"
     },
     {
-      "id": "781072ac91324c58b439900d4ef620e3",
+      "id": "f4a87efe329141d090844fedf476ad46",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "236220",
-        "Tên Bưu cục": "vhx kè tràng",
-        "Họ và tên người sử dụng": "nguyễn thị Quyên",
-        "Mã HRM": "00222716",
-        "Bộ phận / Phòng ban": "nv giao dịch",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "BG-VY-KETRANG",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "8CC5231LL9",
-        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "239 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
-        "Office": "Microsoft 365 - en-us",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.10",
-        "MAC Address": "10:B6:76:9E:C8:A5"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-13T03:38:19",
-      "updatedAt": "2026-06-13T03:38:19"
+      "createdAt": "2026-06-13T03:38:21",
+      "updatedAt": "2026-06-13T03:38:21"
     }
   ]
 }
