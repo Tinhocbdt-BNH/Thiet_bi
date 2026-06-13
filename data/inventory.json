@@ -6083,6 +6083,53 @@
       ],
       "createdAt": "2026-06-13T08:34:50",
       "updatedAt": "2026-06-13T08:34:50"
+    },
+    {
+      "id": "36a8511318df4470a8d830ee914397d0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "236100",
+        "Tên Bưu cục": "BĐ PHƯỜNG VIỆT YÊN",
+        "Họ và tên người sử dụng": "LÊ THỊ UYÊN",
+        "Mã HRM": "00277858",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-VY-GDM13",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "690 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 2003 Web Components",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.45.152",
+        "MAC Address": "E0:D5:5E:75:CA:A6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "HONEYWELL",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T08:32:35",
+      "updatedAt": "2026-06-13T08:32:35"
     }
   ]
 }
