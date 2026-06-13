@@ -5962,6 +5962,48 @@
       ],
       "createdAt": "2026-06-13T08:22:12",
       "updatedAt": "2026-06-13T08:22:12"
+    },
+    {
+      "id": "4cf8775b22f748bdb4d7cbcec0b97641",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "230100",
+        "Tên Bưu cục": "BƯU CỤC PHƯỜNG VIỆT YÊN",
+        "Họ và tên người sử dụng": "HOÀNG BÍCH ĐÀO",
+        "Mã HRM": "00102011",
+        "Bộ phận / Phòng ban": "TIẾT KIỆM BƯU ĐIỆN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-VY-TKM1",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE73749T3",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.45.109",
+        "MAC Address": "3C:52:82:52:25:AF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "HP",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T08:23:52",
+      "updatedAt": "2026-06-13T08:23:52"
     }
   ]
 }
