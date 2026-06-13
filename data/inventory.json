@@ -5412,6 +5412,37 @@
       ],
       "createdAt": "2026-06-12T15:10:27",
       "updatedAt": "2026-06-12T15:10:27"
+    },
+    {
+      "id": "61e52e4f10d44cbe98cb84ecd7ed4fbe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "231800",
+        "Tên Bưu cục": "BC Lục Nam",
+        "Họ và tên người sử dụng": "Đào Thị Hạnh",
+        "Mã HRM": "00234777",
+        "Bộ phận / Phòng ban": "NVKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDLN-GD-M06",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE73749TN",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.41.28",
+        "MAC Address": "3C:52:82:50:12:7D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-13T00:44:30",
+      "updatedAt": "2026-06-13T00:44:30"
     }
   ]
 }
