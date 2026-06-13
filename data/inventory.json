@@ -5925,6 +5925,43 @@
       ],
       "createdAt": "2026-06-13T03:58:30",
       "updatedAt": "2026-06-13T03:58:30"
+    },
+    {
+      "id": "559340524c5545fd9b91294343b68158",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2306",
+        "Tên Xã": "Phường Việt Yên",
+        "Mã Bưu cục": "236100",
+        "Tên Bưu cục": "Bưu điện phường Việt Yên",
+        "Họ và tên người sử dụng": "Hoàng Bích Đào",
+        "Mã HRM": "00102011",
+        "Bộ phận / Phòng ban": "TCBC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-VY-GDM12",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821180828",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.5.159",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp m402",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T08:22:12",
+      "updatedAt": "2026-06-13T08:22:12"
     }
   ]
 }
