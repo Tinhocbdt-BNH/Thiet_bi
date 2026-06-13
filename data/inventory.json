@@ -5542,6 +5542,48 @@
       "attachments": [],
       "createdAt": "2026-06-13T01:08:22",
       "updatedAt": "2026-06-13T01:08:22"
+    },
+    {
+      "id": "df4d5e18231642c89ca3937acdb88062",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "222800",
+        "Tên Bưu cục": "Quế Võ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng Thái",
+        "Mã HRM": "00004896",
+        "Bộ phận / Phòng ban": "Giao dịch Quế Võ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDHQV-GDV3",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "95X8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.4.120",
+        "MAC Address": "F8:BC:12:A4:37:57"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T02:00:35",
+      "updatedAt": "2026-06-13T02:00:35"
     }
   ]
 }
