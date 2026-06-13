@@ -5511,6 +5511,43 @@
       ],
       "createdAt": "2026-06-13T00:59:33",
       "updatedAt": "2026-06-13T00:59:33"
+    },
+    {
+      "id": "3b465a254ce44a4fb4498c66c143a3e2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "223500",
+        "Tên Bưu cục": "lương tài",
+        "Họ và tên người sử dụng": "Nguyễn Thị Huyền Trang",
+        "Mã HRM": "00084226",
+        "Bộ phận / Phòng ban": "pkd",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-19F6FTL",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3671",
+        "Năm sản xuất": "",
+        "Serial Number": "B9J6J23",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "915 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22621",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.3.137",
+        "MAC Address": "E4:54:E8:CB:9C:DD"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra zd620",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T01:08:20",
+      "updatedAt": "2026-06-13T01:08:20"
     }
   ]
 }
