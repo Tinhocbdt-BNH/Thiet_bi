@@ -5443,6 +5443,37 @@
       "attachments": [],
       "createdAt": "2026-06-13T00:44:30",
       "updatedAt": "2026-06-13T00:44:30"
+    },
+    {
+      "id": "fce4232d3bc94ccb87edf0e24538a0dd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "223500",
+        "Tên Bưu cục": "Lương Tài",
+        "Họ và tên người sử dụng": "Đoàn Thị Kế",
+        "Mã HRM": "00004794",
+        "Bộ phận / Phòng ban": "Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HANG-HON-HO",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 800 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "MXL5291MVV",
+        "CPU": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.3.122",
+        "MAC Address": "EC:B1:D7:37:6A:D5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-13T00:55:24",
+      "updatedAt": "2026-06-13T00:55:24"
     }
   ]
 }
