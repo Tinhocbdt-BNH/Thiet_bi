@@ -5810,6 +5810,48 @@
       ],
       "createdAt": "2026-06-13T03:16:02",
       "updatedAt": "2026-06-13T03:16:02"
+    },
+    {
+      "id": "b7464b6ee9c34107b13b05e6bb7dd7ce",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "236410",
+        "Tên Bưu cục": "bưu điện văn hoá vân trung",
+        "Họ và tên người sử dụng": "nguyễn thị khuyên",
+        "Mã HRM": "00003217",
+        "Bộ phận / Phòng ban": "bưu điên phường nếnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-VY-VHXVT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011339S",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "116 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.35",
+        "MAC Address": "38:22:E2:18:88:94"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T03:24:15",
+      "updatedAt": "2026-06-13T03:24:15"
     }
   ]
 }
