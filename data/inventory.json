@@ -5662,6 +5662,43 @@
       ],
       "createdAt": "2026-06-13T02:39:20",
       "updatedAt": "2026-06-13T02:39:20"
+    },
+    {
+      "id": "490c00f8b5764ba897bb19372147473e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BĐ Phường Việt Yên",
+        "Tên Xã": "",
+        "Mã Bưu cục": "236100",
+        "Tên Bưu cục": "Việt Yên",
+        "Họ và tên người sử dụng": "Nguyễ Thị Quỳnh Anh",
+        "Mã HRM": "00261917",
+        "Bộ phận / Phòng ban": "Kinh doanh tại điểm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-VY-BHXH",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.45.105",
+        "MAC Address": "B4:2E:99:B6:DC:A5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Pro M203dn",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T02:41:01",
+      "updatedAt": "2026-06-13T02:41:01"
     }
   ]
 }
