@@ -5474,6 +5474,43 @@
       "attachments": [],
       "createdAt": "2026-06-13T00:55:24",
       "updatedAt": "2026-06-13T00:55:24"
+    },
+    {
+      "id": "f6e0e85c1d5b4901b3262f01b737fab8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Lương Tài",
+        "Tên Xã": "",
+        "Mã Bưu cục": "223500",
+        "Tên Bưu cục": "Lương Tài",
+        "Họ và tên người sử dụng": "Nguyễn Thị Doan",
+        "Mã HRM": "00084227",
+        "Bộ phận / Phòng ban": "kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-EBF9H6F",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BWNG8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.16.3.113",
+        "MAC Address": "00:E0:99:01:00:67"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra zd620",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T00:59:33",
+      "updatedAt": "2026-06-13T00:59:33"
     }
   ]
 }
