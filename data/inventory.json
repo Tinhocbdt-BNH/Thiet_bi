@@ -6298,6 +6298,43 @@
       ],
       "createdAt": "2026-06-14T00:37:19",
       "updatedAt": "2026-06-14T00:37:19"
+    },
+    {
+      "id": "8abfb21a32bd4a48aa67eacffe4c166c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "231830",
+        "Tên Bưu cục": "BCVH lục nam",
+        "Họ và tên người sử dụng": "trương thị hằng",
+        "Mã HRM": "00002872",
+        "Bộ phận / Phòng ban": "BCVH lục nam",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-IC3KPO3",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221P9",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Avast Antivirus",
+        "IP Address": "10.21.41.111",
+        "MAC Address": "10:B6:76:9E:21:A5"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-14T00:44:28",
+      "updatedAt": "2026-06-14T00:44:28"
     }
   ]
 }
