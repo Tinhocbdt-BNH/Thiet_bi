@@ -6335,6 +6335,48 @@
       ],
       "createdAt": "2026-06-14T00:44:28",
       "updatedAt": "2026-06-14T00:44:28"
+    },
+    {
+      "id": "f4164bf8326c43e2801d97a55d955da5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "231830",
+        "Tên Bưu cục": "bcvh luc nam",
+        "Họ và tên người sử dụng": "nguyễn thị nhung",
+        "Mã HRM": "00224926",
+        "Bộ phận / Phòng ban": "bcvh lục nam",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-BCP-LN4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B3WKH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.41.110",
+        "MAC Address": "64:00:6A:01:E3:92"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-14T00:46:07",
+      "updatedAt": "2026-06-14T00:46:07"
     }
   ]
 }
