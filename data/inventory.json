@@ -6430,6 +6430,37 @@
       ],
       "createdAt": "2026-06-15T03:11:45",
       "updatedAt": "2026-06-15T03:11:45"
+    },
+    {
+      "id": "dce6519e92b242d78ad8f9755c9f5e9b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "231800",
+        "Tên Xã": "Xã Lục Nam",
+        "Mã Bưu cục": "231800",
+        "Tên Bưu cục": "Bưu cục giao dịch Lục Nam",
+        "Họ và tên người sử dụng": "Trương Thị Sâm",
+        "Mã HRM": "00002890",
+        "Bộ phận / Phòng ban": "NV Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LUCNAM-GD3",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "1234567890",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.21.41.16",
+        "MAC Address": "50:AF:73:38:1D:92"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T07:14:50",
+      "updatedAt": "2026-06-15T07:14:50"
     }
   ]
 }
