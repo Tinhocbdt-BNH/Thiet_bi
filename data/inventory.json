@@ -6498,6 +6498,53 @@
       ],
       "createdAt": "2026-06-15T07:18:00",
       "updatedAt": "2026-06-15T07:18:00"
+    },
+    {
+      "id": "5abb60fe429549a18138e517beec68a6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "232020",
+        "Tên Bưu cục": "bưu cục sàn",
+        "Họ và tên người sử dụng": "tống thị thu trang",
+        "Mã HRM": "00002881",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDLN-CHOSAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "31890T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "B8:85:84:B1:4B:B8"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2009",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "xinye",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T07:18:26",
+      "updatedAt": "2026-06-15T07:18:26"
     }
   ]
 }
