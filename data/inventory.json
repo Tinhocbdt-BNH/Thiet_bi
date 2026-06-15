@@ -6638,6 +6638,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T07:25:09",
       "updatedAt": "2026-06-15T07:25:09"
+    },
+    {
+      "id": "9446f2e040054240b5cf752b567e54ff",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Lục Nam",
+        "Mã Bưu cục": "231820",
+        "Tên Bưu cục": "BĐVHX Tiên Hưng",
+        "Họ và tên người sử dụng": "Phạm Thị Dung",
+        "Mã HRM": "00002918",
+        "Bộ phận / Phòng ban": "Bưu điện Lục Nam",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LG-TIENHUNG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BD9Q8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, AVG Antivirus",
+        "IP Address": "10.200.5.89",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T07:27:18",
+      "updatedAt": "2026-06-15T07:27:18"
     }
   ]
 }
