@@ -6346,6 +6346,43 @@
       ],
       "createdAt": "2026-06-14T00:46:07",
       "updatedAt": "2026-06-14T00:46:07"
+    },
+    {
+      "id": "718d166bb6dc439cb9a45b990d28b9f7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "236240",
+        "Tên Xã": "VHX HƯƠNG MAI",
+        "Mã Bưu cục": "236240",
+        "Tên Bưu cục": "HƯƠNG MAI",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ SỬU",
+        "Mã HRM": "00234275",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-VY-HUONGMAI",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BWDK8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "18:66:DA:28:A4:AD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON F166400",
+          "serial": "F166400"
+        }
+      ],
+      "createdAt": "2026-06-15T02:43:33",
+      "updatedAt": "2026-06-15T02:43:33"
     }
   ]
 }
