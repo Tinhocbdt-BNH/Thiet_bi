@@ -7000,6 +7000,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T08:17:13",
       "updatedAt": "2026-06-15T08:17:13"
+    },
+    {
+      "id": "6fbbfb785efa499c813985ad7875e738",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "231800",
+        "Tên Xã": "Bưu điện xã Lục Nam",
+        "Mã Bưu cục": "231800",
+        "Tên Bưu cục": "Bưu điện xã Lục Nam",
+        "Họ và tên người sử dụng": "Hà Thị Thu",
+        "Mã HRM": "00002796",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LUCNAM-GD2",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE73749WD",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.41.187",
+        "MAC Address": "3C:52:82:52:25:C2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T09:12:58",
+      "updatedAt": "2026-06-15T09:12:58"
     }
   ]
 }
