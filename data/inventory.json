@@ -6895,6 +6895,43 @@
       ],
       "createdAt": "2026-06-15T07:58:35",
       "updatedAt": "2026-06-15T07:58:35"
+    },
+    {
+      "id": "bff9b7d0c792459da5bee43a91365de3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "231800",
+        "Tên Bưu cục": "Lục Nam",
+        "Họ và tên người sử dụng": "Luyện Thị Hạnh",
+        "Mã HRM": "00238949",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-BCP-LUCNAM6",
+        "Loại máy": "Desktop",
+        "Hãng": "ECS",
+        "Model": "H81H3-M7",
+        "Năm sản xuất": "",
+        "Serial Number": "00000000",
+        "CPU": "Intel(R) Pentium(R) CPU G3240 @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.41.159",
+        "MAC Address": "B8:AE:ED:A2:FE:7F"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T08:05:10",
+      "updatedAt": "2026-06-15T08:05:10"
     }
   ]
 }
