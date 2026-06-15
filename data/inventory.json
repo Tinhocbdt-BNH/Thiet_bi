@@ -6383,6 +6383,53 @@
       ],
       "createdAt": "2026-06-15T02:43:33",
       "updatedAt": "2026-06-15T02:43:33"
+    },
+    {
+      "id": "6831dfea2bc746a39b4b6f6b67ef4be4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "236370",
+        "Tên Xã": "Ninh Sơn",
+        "Mã Bưu cục": "236370",
+        "Tên Bưu cục": "VHX Ninh Sơn",
+        "Họ và tên người sử dụng": "Lê Thị Nhung",
+        "Mã HRM": "00276515",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BUUDIENVANHA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1CMH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "64:00:6A:06:26:FF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T03:11:45",
+      "updatedAt": "2026-06-15T03:11:45"
     }
   ]
 }
