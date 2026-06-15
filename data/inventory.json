@@ -6576,6 +6576,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T07:20:22",
       "updatedAt": "2026-06-15T07:20:22"
+    },
+    {
+      "id": "565b94ab571848dd89bf127958094d0d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "231800",
+        "Tên Xã": "Bưu điện xã Lục Nam",
+        "Mã Bưu cục": "231800",
+        "Tên Bưu cục": "Bưu điện xã Lục Nam",
+        "Họ và tên người sử dụng": "Hà Thị Thu",
+        "Mã HRM": "00002796",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LUCNAM-GD5",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T07:20:54",
+      "updatedAt": "2026-06-15T07:20:54"
     }
   ]
 }
