@@ -6461,6 +6461,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T07:14:50",
       "updatedAt": "2026-06-15T07:14:50"
+    },
+    {
+      "id": "84b0ef25b1cb4e5085e5467918874551",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Lục Nam",
+        "Mã Bưu cục": "231800",
+        "Tên Bưu cục": "Lục Nam",
+        "Họ và tên người sử dụng": "Ngô Thị Ngọc",
+        "Mã HRM": "00002925",
+        "Bộ phận / Phòng ban": "Giám đốc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LN-GD",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-S2H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.208",
+        "MAC Address": "B4:2E:99:1C:81:3B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T07:18:00",
+      "updatedAt": "2026-06-15T07:18:00"
     }
   ]
 }
