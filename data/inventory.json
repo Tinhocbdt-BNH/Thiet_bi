@@ -6607,6 +6607,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T07:20:54",
       "updatedAt": "2026-06-15T07:20:54"
+    },
+    {
+      "id": "33c06cb6fb81461092e798c4cda72eaa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "231800",
+        "Tên Xã": "Bưu điện xã Lục Nam",
+        "Mã Bưu cục": "231800",
+        "Tên Bưu cục": "Bưu điện xã Lục Nam",
+        "Họ và tên người sử dụng": "Hà Thị Thu",
+        "Mã HRM": "00002796",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LUCNAM-GD5",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3YP21H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "92 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.41.156",
+        "MAC Address": "48:4D:7E:D7:26:E3"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T07:25:07",
+      "updatedAt": "2026-06-15T07:25:07"
     }
   ]
 }
