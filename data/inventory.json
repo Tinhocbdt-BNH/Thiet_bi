@@ -7031,6 +7031,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T09:12:58",
       "updatedAt": "2026-06-15T09:12:58"
+    },
+    {
+      "id": "cabc36fc2354478ea14058a42eaf349a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Lục Nam",
+        "Tên Xã": "Lục Nam",
+        "Mã Bưu cục": "231800",
+        "Tên Bưu cục": "231800",
+        "Họ và tên người sử dụng": "Nguyễn Thị Nghiêm",
+        "Mã HRM": "00002802",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LN-KT01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "41761H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.9.108",
+        "MAC Address": "48:4D:7E:DB:76:CC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T09:42:55",
+      "updatedAt": "2026-06-15T09:42:55"
     }
   ]
 }
