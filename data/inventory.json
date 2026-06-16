@@ -7688,6 +7688,37 @@
       ],
       "createdAt": "2026-06-16T09:27:52",
       "updatedAt": "2026-06-16T09:27:52"
+    },
+    {
+      "id": "60d5ea9f0adf4933914090b50ecfbf7b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "232850",
+        "Tên Xã": "Thanh luận",
+        "Mã Bưu cục": "232850",
+        "Tên Bưu cục": "Vhx thanh luận",
+        "Họ và tên người sử dụng": "Ngô thị hảo",
+        "Mã HRM": "00002781",
+        "Bộ phận / Phòng ban": "Vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Hp",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T09:46:44",
+      "updatedAt": "2026-06-16T09:46:44"
     }
   ]
 }
