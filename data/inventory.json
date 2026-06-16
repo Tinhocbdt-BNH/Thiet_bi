@@ -7646,6 +7646,48 @@
       "attachments": [],
       "createdAt": "2026-06-16T09:02:09",
       "updatedAt": "2026-06-16T09:02:09"
+    },
+    {
+      "id": "4f0ecf3e7e1f4c9e95fac0476488a654",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "232860",
+        "Tên Xã": "tây yên tử",
+        "Mã Bưu cục": "232860",
+        "Tên Bưu cục": "vhx tây yên tử",
+        "Họ và tên người sử dụng": "hà thị tuyến",
+        "Mã HRM": "00071463",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "hp",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "laser jet pro m404dw",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T09:27:52",
+      "updatedAt": "2026-06-16T09:27:52"
     }
   ]
 }
