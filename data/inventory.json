@@ -7260,6 +7260,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T02:10:40",
       "updatedAt": "2026-06-16T02:10:40"
+    },
+    {
+      "id": "6283950960134a2b80220a056fec1db4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "232560",
+        "Tên Xã": "An Lạc",
+        "Mã Bưu cục": "232560",
+        "Tên Bưu cục": "An Lạc",
+        "Họ và tên người sử dụng": "Trần Thị Thắm",
+        "Mã HRM": "00099992",
+        "Bộ phận / Phòng ban": "Phát xã",
+        "Mã vật tư": "Máy Hỏng",
+        "Tên máy (Hostname)": "Máy Hỏng",
+        "Loại máy": "Máy Hỏng",
+        "Hãng": "Máy Hỏng",
+        "Model": "Máy Hỏng",
+        "Năm sản xuất": "2001",
+        "Serial Number": "Máy Hỏng",
+        "CPU": "Máy Hỏng không sử dụng được",
+        "RAM": "Máy Hỏng",
+        "Ổ cứng": "Máy hỏng",
+        "Hệ điều hành": "Máy Hỏng",
+        "Office": "Máy Hỏng",
+        "Antivirus": "Máy Hỏng",
+        "IP Address": "Máy Hỏng",
+        "MAC Address": "Máy hỏng"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T02:13:16",
+      "updatedAt": "2026-06-16T02:13:16"
     }
   ]
 }
