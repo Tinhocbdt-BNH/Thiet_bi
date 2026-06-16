@@ -7359,6 +7359,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T02:42:37",
       "updatedAt": "2026-06-16T02:42:37"
+    },
+    {
+      "id": "828453938d9449018529e5c72adaed0a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "232620",
+        "Tên Xã": "Hữu sản",
+        "Mã Bưu cục": "232620",
+        "Tên Bưu cục": "XÃ HỮU SẢN",
+        "Họ và tên người sử dụng": "Lã thị hương",
+        "Mã HRM": "00002773",
+        "Bộ phận / Phòng ban": "Xã hữu sản",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "hp",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T02:48:55",
+      "updatedAt": "2026-06-16T02:48:55"
     }
   ]
 }
