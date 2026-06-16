@@ -7505,6 +7505,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T03:07:08",
       "updatedAt": "2026-06-16T03:07:08"
+    },
+    {
+      "id": "59a557ef11fb4a188fad1cd97fb85267",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "232640",
+        "Tên Xã": "Xã Đại Sơn",
+        "Mã Bưu cục": "232640",
+        "Tên Bưu cục": "VHX Giáo Liêm",
+        "Họ và tên người sử dụng": "Nông Thị Hòe",
+        "Mã HRM": "00002772",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-SD-BCP2",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-HD2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.109",
+        "MAC Address": "E0:D5:5E:0F:D7:B0"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T03:08:24",
+      "updatedAt": "2026-06-16T03:08:24"
     }
   ]
 }
