@@ -7101,35 +7101,35 @@
       "updatedAt": "2026-06-16T01:14:54"
     },
     {
-      "id": "c1b6bd19728549349a4c826fe6665dad",
+      "id": "df4c661a32654b0abac4613479523e0b",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "232500",
-        "Tên Xã": "SƠN ĐỘNG",
-        "Mã Bưu cục": "232730",
-        "Tên Bưu cục": "AN BÁ",
-        "Họ và tên người sử dụng": "LA THỊ NỤ",
-        "Mã HRM": "00117405",
-        "Bộ phận / Phòng ban": "BƯU TÁ",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "BG-SD-ANBA",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 5060",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "BD6R8T2",
-        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "118 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
-        "Office": "Microsoft Office Professional Plus 2016",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.3",
-        "MAC Address": "B8:85:84:B0:FF:91"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-16T01:33:39",
-      "updatedAt": "2026-06-16T01:33:39"
+      "createdAt": "2026-06-16T01:33:41",
+      "updatedAt": "2026-06-16T01:33:41"
     }
   ]
 }
