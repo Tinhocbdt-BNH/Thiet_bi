@@ -7068,6 +7068,37 @@
       ],
       "createdAt": "2026-06-15T09:42:55",
       "updatedAt": "2026-06-15T09:42:55"
+    },
+    {
+      "id": "7c9692b88e774ebfbed3051ab6c91b57",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "231800",
+        "Tên Bưu cục": "LỤC NAM",
+        "Họ và tên người sử dụng": "VŨ THỊ MAI",
+        "Mã HRM": "00002876",
+        "Bộ phận / Phòng ban": "BĐX LỤC NAM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-KT0OG35",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 14-3467",
+        "Năm sản xuất": "",
+        "Serial Number": "C25NWN2",
+        "CPU": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Standard 2013",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.110.148",
+        "MAC Address": "74:40:BB:E6:61:E1"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T01:14:54",
+      "updatedAt": "2026-06-16T01:14:54"
     }
   ]
 }
