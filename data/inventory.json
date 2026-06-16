@@ -7330,41 +7330,35 @@
       "updatedAt": "2026-06-16T02:27:21"
     },
     {
-      "id": "a22b17b0e9e347389527d191e3e1a859",
+      "id": "f4ef4936c3e5441e86410b50ca67bd93",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "232810",
-        "Tên Bưu cục": "Bưu Điện xã Dương Hưu",
-        "Họ và tên người sử dụng": "Ngọc Thị Minh Thuý",
-        "Mã HRM": "0002777",
-        "Bộ phận / Phòng ban": "Xã Dương Hưu",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "BG-SD-LONGSON",
-        "Loại máy": "Desktop",
-        "Hãng": "MSI",
-        "Model": "MS-7817",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "To be filled by O.E.M.",
-        "CPU": "Intel(R) Pentium(R) CPU G3240 @ 3.10GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "346 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft 365 Apps for enterprise - en-us",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.5",
-        "MAC Address": "D8:CB:8A:1F:14:08"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "barcode_reader",
-          "name": "symbol",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-16T02:42:34",
-      "updatedAt": "2026-06-16T02:42:34"
+      "attachments": [],
+      "createdAt": "2026-06-16T02:42:37",
+      "updatedAt": "2026-06-16T02:42:37"
     }
   ]
 }
