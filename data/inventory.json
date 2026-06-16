@@ -7167,6 +7167,37 @@
       ],
       "createdAt": "2026-06-16T01:47:00",
       "updatedAt": "2026-06-16T01:47:00"
+    },
+    {
+      "id": "862de661bdbf42ec8fa1b587b4ed5506",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "232500",
+        "Tên Xã": "SƠN ĐỘNG",
+        "Mã Bưu cục": "232730",
+        "Tên Bưu cục": "AN BÁ",
+        "Họ và tên người sử dụng": "LA THỊ NỤ",
+        "Mã HRM": "00117405",
+        "Bộ phận / Phòng ban": "BUU TÁ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-SD-ANBA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BD6R8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "B8:85:84:B0:FF:91"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T02:07:04",
+      "updatedAt": "2026-06-16T02:07:04"
     }
   ]
 }
