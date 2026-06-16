@@ -7390,6 +7390,53 @@
       "attachments": [],
       "createdAt": "2026-06-16T02:48:55",
       "updatedAt": "2026-06-16T02:48:55"
+    },
+    {
+      "id": "f1d0ded3faaa40439c9b8cc99644be97",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "232710",
+        "Tên Xã": "Xã Yên Định",
+        "Mã Bưu cục": "232710",
+        "Tên Bưu cục": "VHX Cẩm Đàn",
+        "Họ và tên người sử dụng": "Hoàng Thị Hải Đăng",
+        "Mã HRM": "00002764",
+        "Bộ phận / Phòng ban": "VHX Cẩm Đàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-SD-BCP2",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-HD2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.109",
+        "MAC Address": "E0:D5:5E:0F:D7:B0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T03:03:05",
+      "updatedAt": "2026-06-16T03:03:05"
     }
   ]
 }
