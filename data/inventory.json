@@ -7130,6 +7130,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T01:33:41",
       "updatedAt": "2026-06-16T01:33:41"
+    },
+    {
+      "id": "421031dc2d7b486183afa9a2d3c591dc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "232600",
+        "Tên Bưu cục": "VHX Vân Sơn",
+        "Họ và tên người sử dụng": "Đoàn Thị Vân Anh",
+        "Mã HRM": "00246773",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDSD-VANSON-M01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "3FY8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "F8:BC:12:A5:7A:52"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "HP LASER JET PRO M203d",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T01:47:00",
+      "updatedAt": "2026-06-16T01:47:00"
     }
   ]
 }
