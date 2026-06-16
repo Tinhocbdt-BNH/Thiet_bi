@@ -7536,6 +7536,48 @@
       "attachments": [],
       "createdAt": "2026-06-16T03:08:24",
       "updatedAt": "2026-06-16T03:08:24"
+    },
+    {
+      "id": "515e1fab83104db8b86541d2346617a7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "232750",
+        "Tên Xã": "Xã Yên Định",
+        "Mã Bưu cục": "232750",
+        "Tên Bưu cục": "VHX Yên Định",
+        "Họ và tên người sử dụng": "Lã Thị Hường",
+        "Mã HRM": "00018678",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-SD-BCP2",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-HD2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.109",
+        "MAC Address": "E0:D5:5E:0F:D7:B0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hỏng",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "hỏng",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T03:10:28",
+      "updatedAt": "2026-06-16T03:10:28"
     }
   ]
 }
