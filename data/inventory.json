@@ -6392,37 +6392,6 @@
       "updatedAt": "2026-06-15T07:20:54"
     },
     {
-      "id": "2e89ec372f73416e964d7f18940434a9",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "",
-        "Tên Bưu cục": "",
-        "Họ và tên người sử dụng": "",
-        "Mã HRM": "",
-        "Bộ phận / Phòng ban": "",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "",
-        "Loại máy": "",
-        "Hãng": "",
-        "Model": "",
-        "Năm sản xuất": "",
-        "Serial Number": "",
-        "CPU": "",
-        "RAM": "",
-        "Ổ cứng": "",
-        "Hệ điều hành": "",
-        "Office": "",
-        "Antivirus": "",
-        "IP Address": "",
-        "MAC Address": ""
-      },
-      "attachments": [],
-      "createdAt": "2026-06-15T07:25:09",
-      "updatedAt": "2026-06-15T07:25:09"
-    },
-    {
       "id": "9446f2e040054240b5cf752b567e54ff",
       "category": "3. Máy Tính",
       "fields": {
