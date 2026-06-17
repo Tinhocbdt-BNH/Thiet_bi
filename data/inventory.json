@@ -7378,6 +7378,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T09:46:44",
       "updatedAt": "2026-06-16T09:46:44"
+    },
+    {
+      "id": "8918c322e9614cb1962ba425274f182b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Xã Lục Nam",
+        "Mã Bưu cục": "231800",
+        "Tên Bưu cục": "BC Lục Nam",
+        "Họ và tên người sử dụng": "Nguyễn Hồng Nhung",
+        "Mã HRM": "00002878",
+        "Bộ phận / Phòng ban": "Kế toán_Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDLN-KETOANM11",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2ZP90T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "117 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19044",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.9.111",
+        "MAC Address": "B8:85:84:AA:FF:E8"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T09:43:32",
+      "updatedAt": "2026-06-17T09:43:32"
     }
   ]
 }
