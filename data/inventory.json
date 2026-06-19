@@ -7477,6 +7477,43 @@
       "attachments": [],
       "createdAt": "2026-06-19T10:25:59",
       "updatedAt": "2026-06-19T10:25:59"
+    },
+    {
+      "id": "6c72b03f2f204cc0aa0c766826367a20",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2368",
+        "Tên Xã": "Tân Yên",
+        "Mã Bưu cục": "235300",
+        "Tên Bưu cục": "Tân Yên",
+        "Họ và tên người sử dụng": "Trương Thị Kim Oanh",
+        "Mã HRM": "00003005",
+        "Bộ phận / Phòng ban": "Giáo dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-10",
+        "Loại máy": "Desktop",
+        "Hãng": "SAMSUNG ELECTRONICS CO., LTD.",
+        "Model": "Samsung DeskTop System",
+        "Năm sản xuất": "",
+        "Serial Number": "JEEU98CDBB000G",
+        "CPU": "Intel(R) Pentium(R) CPU G2020 @ 2.90GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "233 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Kaspersky, Kaspersky, Windows Defender",
+        "IP Address": "10.21.43.113",
+        "MAC Address": "E8:03:9A:6F:93:A1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T10:35:12",
+      "updatedAt": "2026-06-19T10:35:12"
     }
   ]
 }
