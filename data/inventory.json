@@ -7875,6 +7875,37 @@
       "attachments": [],
       "createdAt": "2026-06-19T12:07:00",
       "updatedAt": "2026-06-19T12:07:00"
+    },
+    {
+      "id": "b3635f968fe04147800f47dcfabccc35",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "235320",
+        "Tên Bưu cục": "BCP Tân Yên",
+        "Họ và tên người sử dụng": "ĐỖ THỊ HOA",
+        "Mã HRM": "00255355",
+        "Bộ phận / Phòng ban": "BCVH TÂN YÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-TY-BCP-M05",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B0ZM8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.49.111",
+        "MAC Address": "B8:85:84:AF:46:56"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T12:10:12",
+      "updatedAt": "2026-06-19T12:10:12"
     }
   ]
 }
