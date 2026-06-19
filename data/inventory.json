@@ -7846,35 +7846,35 @@
       "updatedAt": "2026-06-19T12:06:41"
     },
     {
-      "id": "864feef269c442d4afd3ed715e669d3d",
+      "id": "090595ab85be466093c441ae8c71ecae",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "235320",
-        "Tên Bưu cục": "BCP Tân Yên",
-        "Họ và tên người sử dụng": "Ngô Thị Hoa Nga",
-        "Mã HRM": "00003024",
-        "Bộ phận / Phòng ban": "BCVH Tân Yên",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "BG-TY-BCP-M04",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3020M",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "B0LF862",
-        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "226 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.21.49.110",
-        "MAC Address": "64:00:6A:06:2B:28"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-19T12:06:58",
-      "updatedAt": "2026-06-19T12:06:58"
+      "createdAt": "2026-06-19T12:07:00",
+      "updatedAt": "2026-06-19T12:07:00"
     }
   ]
 }
