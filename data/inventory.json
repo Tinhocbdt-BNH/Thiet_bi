@@ -7446,6 +7446,37 @@
       ],
       "createdAt": "2026-06-19T03:21:48",
       "updatedAt": "2026-06-19T03:21:48"
+    },
+    {
+      "id": "43f0314bbdd44ab5bd7d95c6df0e43e0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "235300",
+        "Tên Bưu cục": "Bưu điện xã Tân Yên",
+        "Họ và tên người sử dụng": "Ngọ Thị Quỳnh",
+        "Mã HRM": "00102136",
+        "Bộ phận / Phòng ban": "Bưu điện xã Tân Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "QUYNHPC",
+        "Loại máy": "Desktop",
+        "Hãng": "BIOSTAR Group",
+        "Model": "H81MHV3",
+        "Năm sản xuất": "",
+        "Serial Number": "None",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "585 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.43.157",
+        "MAC Address": "B8:97:5A:E5:35:DE"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T10:25:59",
+      "updatedAt": "2026-06-19T10:25:59"
     }
   ]
 }
