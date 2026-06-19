@@ -7621,35 +7621,35 @@
       "updatedAt": "2026-06-19T10:48:24"
     },
     {
-      "id": "d659fb7e97ad4191a605573f9faaa01a",
+      "id": "c7ae721c90d64a27878cf6d8770eedaf",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "235880",
-        "Tên Bưu cục": "vhx ngọc vân xã ngọc thiện",
-        "Họ và tên người sử dụng": "nguyễn thị tính",
-        "Mã HRM": "00003048",
-        "Bộ phận / Phòng ban": "giao dịch viên",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "BG-TY-NGOCVAN",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3040",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "BWMF8F2",
-        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "113 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
-        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.8",
-        "MAC Address": "18:66:DA:28:FD:07"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-19T10:54:57",
-      "updatedAt": "2026-06-19T10:54:57"
+      "createdAt": "2026-06-19T10:54:59",
+      "updatedAt": "2026-06-19T10:54:59"
     }
   ]
 }
