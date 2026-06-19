@@ -7588,6 +7588,43 @@
       ],
       "createdAt": "2026-06-19T10:42:47",
       "updatedAt": "2026-06-19T10:42:47"
+    },
+    {
+      "id": "803a251488294621a8c7ee833906d175",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2368",
+        "Tên Xã": "TAN YEN",
+        "Mã Bưu cục": "235300",
+        "Tên Bưu cục": "TAN YEN",
+        "Họ và tên người sử dụng": "HOANG THI MINH",
+        "Mã HRM": "00233209",
+        "Bộ phận / Phòng ban": "THU QUY",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-10",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.108",
+        "MAC Address": "B4:2E:99:D8:A5:97"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T10:48:21",
+      "updatedAt": "2026-06-19T10:48:21"
     }
   ]
 }
