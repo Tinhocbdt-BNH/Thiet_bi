@@ -7906,6 +7906,37 @@
       "attachments": [],
       "createdAt": "2026-06-19T12:10:12",
       "updatedAt": "2026-06-19T12:10:12"
+    },
+    {
+      "id": "35e5289821d14cae88aa0aa66b521c52",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "235316",
+        "Tên Bưu cục": "KHL Tân Yên",
+        "Họ và tên người sử dụng": "Nguyễn Huy Tường",
+        "Mã HRM": "00003012",
+        "Bộ phận / Phòng ban": "BCVH Tân Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDHH-KT-M10",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G2020 @ 2.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.49.53",
+        "MAC Address": "40:8D:5C:49:45:AF"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T12:16:32",
+      "updatedAt": "2026-06-19T12:16:32"
     }
   ]
 }
