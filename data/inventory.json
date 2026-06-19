@@ -7694,35 +7694,35 @@
       "updatedAt": "2026-06-19T11:41:33"
     },
     {
-      "id": "f7d76fc484dd4cad8e1c043ba76f368c",
+      "id": "c3db0098554f4d339c74c422208ba761",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "2351",
-        "Tên Xã": "quang trung",
-        "Mã Bưu cục": "235520.BH",
-        "Tên Bưu cục": "ĐẠI HOÁ",
-        "Họ và tên người sử dụng": "lƯƠNG MINH TÚ",
-        "Mã HRM": "00257903",
-        "Bộ phận / Phòng ban": "VHX ĐẠI HOÁ",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "BGG-TY-VHXDH",
-        "Loại máy": "Desktop",
-        "Hãng": "PEGATRON",
-        "Model": "H81-M1",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
         "Serial Number": "",
-        "CPU": "Intel(R) Pentium(R) CPU G3220 @ 3.00GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "121 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "192.168.1.17",
-        "MAC Address": "20:25:64:7F:90:5D"
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-19T11:43:47",
-      "updatedAt": "2026-06-19T11:43:47"
+      "createdAt": "2026-06-19T11:43:49",
+      "updatedAt": "2026-06-19T11:43:49"
     }
   ]
 }
