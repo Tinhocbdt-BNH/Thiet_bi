@@ -7551,6 +7551,43 @@
       ],
       "createdAt": "2026-06-19T10:40:51",
       "updatedAt": "2026-06-19T10:40:51"
+    },
+    {
+      "id": "68483cdfd1274f32af45acfd84071747",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2368",
+        "Tên Xã": "Tân Yên",
+        "Mã Bưu cục": "235300",
+        "Tên Bưu cục": "Tân Yên",
+        "Họ và tên người sử dụng": "Lê Thị Thu Hà",
+        "Mã HRM": "00003003",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HALEE",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BC7N8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.102",
+        "MAC Address": "B8:85:84:AF:48:E1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2009",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T10:42:47",
+      "updatedAt": "2026-06-19T10:42:47"
     }
   ]
 }
