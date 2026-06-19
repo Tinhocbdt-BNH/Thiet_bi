@@ -7802,6 +7802,48 @@
       ],
       "createdAt": "2026-06-19T11:54:53",
       "updatedAt": "2026-06-19T11:54:53"
+    },
+    {
+      "id": "4bdf6059d2d4452195d6ec4b85a7b8f5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "235316",
+        "Tên Bưu cục": "BCVH Tân Yên",
+        "Họ và tên người sử dụng": "Phạm Phương Thảo",
+        "Mã HRM": "00003006",
+        "Bộ phận / Phòng ban": "Giám đốc BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-TY-BCP-M06",
+        "Loại máy": "Desktop",
+        "Hãng": "BIOSTAR Group",
+        "Model": "H81MGV3",
+        "Năm sản xuất": "",
+        "Serial Number": "None",
+        "CPU": "Intel(R) Pentium(R) CPU G3240 @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.49.114",
+        "MAC Address": "00:E0:4C:36:05:44"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Cannon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T12:06:41",
+      "updatedAt": "2026-06-19T12:06:41"
     }
   ]
 }
