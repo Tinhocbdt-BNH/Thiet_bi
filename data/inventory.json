@@ -7409,6 +7409,43 @@
       "attachments": [],
       "createdAt": "2026-06-17T09:43:32",
       "updatedAt": "2026-06-17T09:43:32"
+    },
+    {
+      "id": "11f5ec2187854a9181f545f138be4f0f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "236200",
+        "Tên Bưu cục": "VHX Thượng Lan",
+        "Họ và tên người sử dụng": "Nguyễn Văn Tuấn",
+        "Mã HRM": "1234",
+        "Bộ phận / Phòng ban": "VHX Thượng Lan",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-VY-VHXTL",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B52R8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "B8:85:84:B1:07:56"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "LS 2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T03:21:48",
+      "updatedAt": "2026-06-19T03:21:48"
     }
   ]
 }
