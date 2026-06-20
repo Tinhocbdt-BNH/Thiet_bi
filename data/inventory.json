@@ -7937,6 +7937,43 @@
       "attachments": [],
       "createdAt": "2026-06-19T12:16:32",
       "updatedAt": "2026-06-19T12:16:32"
+    },
+    {
+      "id": "df0e62e1152445aa99f8ccab72696b0d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "23",
+        "Tên Xã": "yên sơn",
+        "Mã Bưu cục": "232130",
+        "Tên Bưu cục": "vhx yên sơn",
+        "Họ và tên người sử dụng": "vũ thị chị",
+        "Mã HRM": "232",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-QOBHEHL",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH432QD5L",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "C4:34:6B:4F:2B:4E"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP 470",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-20T08:53:41",
+      "updatedAt": "2026-06-20T08:53:41"
     }
   ]
 }
