@@ -7974,6 +7974,37 @@
       ],
       "createdAt": "2026-06-20T08:53:41",
       "updatedAt": "2026-06-20T08:53:41"
+    },
+    {
+      "id": "010d7f1acd72438d9364a2082ebdf3bb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "231152",
+        "Tên Bưu cục": "VP BĐT",
+        "Họ và tên người sử dụng": "Nguyễn Đức Huy",
+        "Mã HRM": "00002735",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-HND",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "15.9 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.48.15",
+        "MAC Address": "E0:D5:5E:1B:13:14"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T11:10:11",
+      "updatedAt": "2026-06-30T11:10:11"
     }
   ]
 }
