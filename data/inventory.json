@@ -8036,6 +8036,43 @@
       "attachments": [],
       "createdAt": "2026-07-01T08:18:47",
       "updatedAt": "2026-07-01T08:18:47"
+    },
+    {
+      "id": "e2beb871b2b14b1baaf36d2e7a04c120",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "231950",
+        "Tên Bưu cục": "BĐX BẢO ĐÀI",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THƯƠNG",
+        "Mã HRM": "00002895",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG_BAODAI",
+        "Loại máy": "Desktop",
+        "Hãng": "PEGATRON",
+        "Model": "H81-M1",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Pentium(R) CPU G3240 @ 3.10GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.107",
+        "MAC Address": "C0:7C:D1:E2:E0:6B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HPM201",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T08:14:29",
+      "updatedAt": "2026-07-01T08:14:29"
     }
   ]
 }
