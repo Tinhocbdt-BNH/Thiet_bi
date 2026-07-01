@@ -8005,6 +8005,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T11:10:11",
       "updatedAt": "2026-06-30T11:10:11"
+    },
+    {
+      "id": "2c7a085ad6764fa3831bcbc35bb3b854",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "231950",
+        "Tên Xã": "BẢO ĐÀI",
+        "Mã Bưu cục": "231950",
+        "Tên Bưu cục": "VHX BẢO ĐÀI",
+        "Họ và tên người sử dụng": "VŨ KIM TRANG",
+        "Mã HRM": "00002892",
+        "Bộ phận / Phòng ban": "GĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-G1O2K7H",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020",
+        "Năm sản xuất": "",
+        "Serial Number": "1TK2D92",
+        "CPU": "Intel(R) Pentium(R) CPU G3220 @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Avast Antivirus",
+        "IP Address": "192.168.1.109",
+        "MAC Address": "64:00:6A:44:AF:9B"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T08:18:47",
+      "updatedAt": "2026-07-01T08:18:47"
     }
   ]
 }
