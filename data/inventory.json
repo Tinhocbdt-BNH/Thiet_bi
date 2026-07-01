@@ -8104,6 +8104,43 @@
       "attachments": [],
       "createdAt": "2026-07-01T08:27:12",
       "updatedAt": "2026-07-01T08:27:12"
+    },
+    {
+      "id": "3ff0203b2ed74fbba1302b99a0392b14",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "231970",
+        "Tên Bưu cục": "BĐVHX BẢO SƠN",
+        "Họ và tên người sử dụng": "GIÁP THỊ TÚ",
+        "Mã HRM": "00002896",
+        "Bộ phận / Phòng ban": "BĐVHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-LN-VHXBAOSO",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3WG81H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "48:4D:7E:DE:78:54"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T08:22:44",
+      "updatedAt": "2026-07-01T08:22:44"
     }
   ]
 }
