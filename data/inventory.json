@@ -8544,6 +8544,48 @@
       "attachments": [],
       "createdAt": "2026-07-02T02:25:23",
       "updatedAt": "2026-07-02T02:25:23"
+    },
+    {
+      "id": "833be90275dd46f58cecc49d2949adef",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2340",
+        "Tên Xã": "BCVH Lạng Giang",
+        "Mã Bưu cục": "234060",
+        "Tên Bưu cục": "BCP LẠNG GIANG",
+        "Họ và tên người sử dụng": "LÊ THỊ THẢO",
+        "Mã HRM": "00094816",
+        "Bộ phận / Phòng ban": "BCP LẠNG GIANG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-5JHSBER",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.42.111",
+        "MAC Address": "1C:1B:0D:DA:07:C7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZD620",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T02:29:01",
+      "updatedAt": "2026-07-02T02:29:01"
     }
   ]
 }
