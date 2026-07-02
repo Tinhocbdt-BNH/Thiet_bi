@@ -8513,6 +8513,37 @@
       "attachments": [],
       "createdAt": "2026-07-02T02:22:34",
       "updatedAt": "2026-07-02T02:22:34"
+    },
+    {
+      "id": "7e152ccc6300447ea111bb480ace1615",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2340",
+        "Tên Xã": "BCVH Lạng Giang",
+        "Mã Bưu cục": "234013",
+        "Tên Bưu cục": "BC KHL Lạng Giang",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ LAN ANH",
+        "Mã HRM": "00002928",
+        "Bộ phận / Phòng ban": "BC KHL Lạng Giang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-LG-GD-M01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "9F4P7C2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "586 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.16299",
+        "Office": "Microsoft Office Standard 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.42.118",
+        "MAC Address": "00:E0:4C:36:0D:5E"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-02T02:25:23",
+      "updatedAt": "2026-07-02T02:25:23"
     }
   ]
 }
