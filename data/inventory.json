@@ -8617,6 +8617,43 @@
       "attachments": [],
       "createdAt": "2026-07-02T02:31:39",
       "updatedAt": "2026-07-02T02:31:39"
+    },
+    {
+      "id": "f67ab7c88bb54197b02edbff6bbdb185",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2340",
+        "Tên Xã": "BCVH Lạng Giang",
+        "Mã Bưu cục": "234060",
+        "Tên Bưu cục": "BCP Lạng Giang",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ HOA",
+        "Mã HRM": "00002954",
+        "Bộ phận / Phòng ban": "BCP Lạng Giang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDLG-KT-MAY07",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3X051H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.42.113",
+        "MAC Address": "48:4D:7E:DB:7C:93"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Zebra ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-02T02:33:54",
+      "updatedAt": "2026-07-02T02:33:54"
     }
   ]
 }
