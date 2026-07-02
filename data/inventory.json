@@ -8586,6 +8586,37 @@
       ],
       "createdAt": "2026-07-02T02:29:01",
       "updatedAt": "2026-07-02T02:29:01"
+    },
+    {
+      "id": "2984d4d6773a4d3c8a3b15c5834f6596",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2340",
+        "Tên Xã": "BCVH Lạng Giang",
+        "Mã Bưu cục": "234060",
+        "Tên Bưu cục": "BCP Lạng Giang",
+        "Họ và tên người sử dụng": "TRẦN THỊ TÂM",
+        "Mã HRM": "00271234",
+        "Bộ phận / Phòng ban": "BCP Lạng Giang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDLG-KT-MAY08",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G3220 @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.42.112",
+        "MAC Address": "08:62:66:86:53:13"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-02T02:31:39",
+      "updatedAt": "2026-07-02T02:31:39"
     }
   ]
 }
