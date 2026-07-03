@@ -8998,6 +8998,48 @@
       "attachments": [],
       "createdAt": "2026-07-03T09:39:27",
       "updatedAt": "2026-07-03T09:39:27"
+    },
+    {
+      "id": "10f8ef4e5c2041a1b17c894cdf744b1d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "KTBN1",
+        "Tên Xã": "KTBN1",
+        "Mã Bưu cục": "KTBN1",
+        "Tên Bưu cục": "KTBN1",
+        "Họ và tên người sử dụng": "KTBN1",
+        "Mã HRM": "KTBN1",
+        "Bộ phận / Phòng ban": "KTBN1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-TTKT-M09",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "FBY8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.50.69",
+        "MAC Address": "F8:BC:12:A6:15:5A"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zd620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-03T09:40:16",
+      "updatedAt": "2026-07-03T09:40:16"
     }
   ]
 }
