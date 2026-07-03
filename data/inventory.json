@@ -9300,6 +9300,48 @@
       "attachments": [],
       "createdAt": "2026-07-03T10:12:16",
       "updatedAt": "2026-07-03T10:12:16"
+    },
+    {
+      "id": "a24e9ceb115d4e33aa3a554aededec8c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "ktbn1",
+        "Tên Xã": "ktbn1",
+        "Mã Bưu cục": "ktbn1",
+        "Tên Bưu cục": "ktbn1",
+        "Họ và tên người sử dụng": "ktbn1",
+        "Mã HRM": "ktbn1",
+        "Bộ phận / Phòng ban": "ktbn1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-TTKT-M04",
+        "Loại máy": "Desktop",
+        "Hãng": "PEGATRON",
+        "Model": "H81-M1",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Pentium(R) CPU G3240 @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.50.128",
+        "MAC Address": "DC:FE:07:20:00:8E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "honeywell pc 45d",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-03T09:54:01",
+      "updatedAt": "2026-07-03T09:54:01"
     }
   ]
 }
