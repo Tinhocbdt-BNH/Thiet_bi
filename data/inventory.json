@@ -8769,6 +8769,43 @@
       ],
       "createdAt": "2026-07-03T09:30:03",
       "updatedAt": "2026-07-03T09:30:03"
+    },
+    {
+      "id": "b7403580949e4396a517f149b97b5388",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2310",
+        "Tên Xã": "BCVH Bắc Giang",
+        "Mã Bưu cục": "231326",
+        "Tên Bưu cục": "KHL Bắc Giang",
+        "Họ và tên người sử dụng": "BÙI QUANG THÁI",
+        "Mã HRM": "00217485",
+        "Bộ phận / Phòng ban": "KHL Bắc Giang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-TP-KHL-M01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G5 Small Form Factor PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE150C6HK",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.50.110",
+        "MAC Address": "C8:5A:CF:01:A9:C3"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xp470b",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-03T09:31:52",
+      "updatedAt": "2026-07-03T09:31:52"
     }
   ]
 }
