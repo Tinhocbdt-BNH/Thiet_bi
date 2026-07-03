@@ -9145,6 +9145,37 @@
       "attachments": [],
       "createdAt": "2026-07-03T10:03:07",
       "updatedAt": "2026-07-03T10:03:07"
+    },
+    {
+      "id": "bede03deccc44ce09d3a882e45bb994f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "ktbn1",
+        "Tên Xã": "ktbn1",
+        "Mã Bưu cục": "ktbn1",
+        "Tên Bưu cục": "ktbn1",
+        "Họ và tên người sử dụng": "ktbn1",
+        "Mã HRM": "ktbn1",
+        "Bộ phận / Phòng ban": "ktbn1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-TTKT-M12",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-HD2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.50.51",
+        "MAC Address": "1C:1B:0D:A0:69:CA"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T10:04:10",
+      "updatedAt": "2026-07-03T10:04:10"
     }
   ]
 }
