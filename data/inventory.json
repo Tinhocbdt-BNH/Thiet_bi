@@ -9040,6 +9040,43 @@
       ],
       "createdAt": "2026-07-03T09:40:16",
       "updatedAt": "2026-07-03T09:40:16"
+    },
+    {
+      "id": "28790cbb8b40440e863640b136a26a32",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "ktbn1",
+        "Tên Xã": "ktbn1",
+        "Mã Bưu cục": "ktbn1",
+        "Tên Bưu cục": "ktbn1",
+        "Họ và tên người sử dụng": "ktbn1",
+        "Mã HRM": "ktbn1",
+        "Bộ phận / Phòng ban": "ktbn1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TTKT-MAY23",
+        "Loại máy": "Desktop",
+        "Hãng": "PEGATRON",
+        "Model": "H81-M1",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "232 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.50.129",
+        "MAC Address": "DC:FE:07:46:4F:8D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP420B",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-03T09:43:05",
+      "updatedAt": "2026-07-03T09:43:05"
     }
   ]
 }
