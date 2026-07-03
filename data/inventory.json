@@ -9176,6 +9176,37 @@
       "attachments": [],
       "createdAt": "2026-07-03T10:04:10",
       "updatedAt": "2026-07-03T10:04:10"
+    },
+    {
+      "id": "115c7c7736a24b44b5a6421bfee5b738",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "ktbn1",
+        "Tên Xã": "ktbn1",
+        "Mã Bưu cục": "ktbn1",
+        "Tên Bưu cục": "ktbn1",
+        "Họ và tên người sử dụng": "ktbn1",
+        "Mã HRM": "ktbn1",
+        "Bộ phận / Phòng ban": "ktbn1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-LN-YENSON",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LJP",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.50.52",
+        "MAC Address": "F8:ED:FC:6A:6F:DD"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T10:05:24",
+      "updatedAt": "2026-07-03T10:05:24"
     }
   ]
 }
