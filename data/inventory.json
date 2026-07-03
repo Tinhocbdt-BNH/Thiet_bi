@@ -8727,6 +8727,48 @@
       ],
       "createdAt": "2026-07-03T09:27:51",
       "updatedAt": "2026-07-03T09:27:51"
+    },
+    {
+      "id": "79fb86f3c67a4d4c9cef170d47887e8a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2310",
+        "Tên Xã": "BCVH Bắc Giang",
+        "Mã Bưu cục": "231326",
+        "Tên Bưu cục": "KHL Bắc Giang",
+        "Họ và tên người sử dụng": "ĐỖ THỊ NGA",
+        "Mã HRM": "00003362",
+        "Bộ phận / Phòng ban": "KHL Bắc Giang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-KHL-NGA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LHP",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.21.50.120",
+        "MAC Address": "10:B6:76:9E:C9:B9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp m402",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "hooneywell pc 42d",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-03T09:30:03",
+      "updatedAt": "2026-07-03T09:30:03"
     }
   ]
 }
