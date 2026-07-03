@@ -9077,6 +9077,43 @@
       ],
       "createdAt": "2026-07-03T09:43:05",
       "updatedAt": "2026-07-03T09:43:05"
+    },
+    {
+      "id": "966b9eef101347c4ae8b07c7e579d4b2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "ktbn1",
+        "Tên Xã": "ktbn1",
+        "Mã Bưu cục": "ktbn1",
+        "Tên Bưu cục": "ktbn1",
+        "Họ và tên người sử dụng": "ktbn1",
+        "Mã HRM": "ktbn1",
+        "Bộ phận / Phòng ban": "ktbn1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-TTKT-M08",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "232 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.50.119",
+        "MAC Address": "D8:5E:D3:97:5A:4C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xp470b",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-03T09:46:26",
+      "updatedAt": "2026-07-03T09:46:26"
     }
   ]
 }
