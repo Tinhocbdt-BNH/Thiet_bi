@@ -8806,6 +8806,37 @@
       ],
       "createdAt": "2026-07-03T09:31:52",
       "updatedAt": "2026-07-03T09:31:52"
+    },
+    {
+      "id": "1e59e407a36144f2b4b5b65fbd532e2d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2310",
+        "Tên Xã": "BCVH BẮC GIANG",
+        "Mã Bưu cục": "231326",
+        "Tên Bưu cục": "KHL BẮC GIANG",
+        "Họ và tên người sử dụng": "KHL BẮC GIANG",
+        "Mã HRM": "KHL BẮC GIANG",
+        "Bộ phận / Phòng ban": "KHL BẮC GIANG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-TP-KHL-NGA",
+        "Loại máy": "Desktop",
+        "Hãng": "SAMSUNG ELECTRONICS CO., LTD.",
+        "Model": "Samsung DeskTop System",
+        "Năm sản xuất": "",
+        "Serial Number": "JEEU98CDBB000G",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.50.134",
+        "MAC Address": "E8:03:9A:68:93:46"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T09:32:55",
+      "updatedAt": "2026-07-03T09:32:55"
     }
   ]
 }
