@@ -8967,6 +8967,37 @@
       ],
       "createdAt": "2026-07-03T09:38:40",
       "updatedAt": "2026-07-03T09:38:40"
+    },
+    {
+      "id": "875cd3bf62eb4f14ad378ddea067f417",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "KTBN1",
+        "Tên Xã": "KTBN1",
+        "Mã Bưu cục": "KTBN1",
+        "Tên Bưu cục": "KTBN1",
+        "Họ và tên người sử dụng": "KTBN1",
+        "Mã HRM": "KTBN1",
+        "Bộ phận / Phòng ban": "KTBN1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-TTKT-M02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01133DD",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.50.115",
+        "MAC Address": "38:22:E2:18:8D:87"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T09:39:27",
+      "updatedAt": "2026-07-03T09:39:27"
     }
   ]
 }
