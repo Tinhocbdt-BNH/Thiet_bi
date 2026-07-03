@@ -8930,6 +8930,43 @@
       "attachments": [],
       "createdAt": "2026-07-03T09:36:43",
       "updatedAt": "2026-07-03T09:36:43"
+    },
+    {
+      "id": "0b6c0338d0af40f4b98b1945059bb3d7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "231080",
+        "Tên Xã": "KTBN1",
+        "Mã Bưu cục": "231080",
+        "Tên Bưu cục": "KTBN1",
+        "Họ và tên người sử dụng": "KTBN1",
+        "Mã HRM": "KTBN1",
+        "Bộ phận / Phòng ban": "KTBN1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-TTKT-M11",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.50.72",
+        "MAC Address": "D8:5E:D3:97:5A:55"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-03T09:38:40",
+      "updatedAt": "2026-07-03T09:38:40"
     }
   ]
 }
