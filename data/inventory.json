@@ -8837,6 +8837,37 @@
       "attachments": [],
       "createdAt": "2026-07-03T09:32:55",
       "updatedAt": "2026-07-03T09:32:55"
+    },
+    {
+      "id": "0d6d9dc4895b49368047e30525ac5e8d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2310",
+        "Tên Xã": "BCVH BẮC GIANG",
+        "Mã Bưu cục": "231326",
+        "Tên Bưu cục": "KHL BẮC GIANG",
+        "Họ và tên người sử dụng": "KHL BẮC GIANG",
+        "Mã HRM": "KHL BẮC GIANG",
+        "Bộ phận / Phòng ban": "KHL BẮC GIANG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-TP-KHL-M02",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5420 CPU @ 3.80GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "10.21.50.57",
+        "MAC Address": "B4:2E:99:BE:2E:72"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T09:34:02",
+      "updatedAt": "2026-07-03T09:34:02"
     }
   ]
 }
