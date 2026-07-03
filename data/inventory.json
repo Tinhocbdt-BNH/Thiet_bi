@@ -9269,6 +9269,37 @@
       "attachments": [],
       "createdAt": "2026-07-03T10:10:58",
       "updatedAt": "2026-07-03T10:10:58"
+    },
+    {
+      "id": "6628faa4d951428781eda265cb8755f5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "ktbn1",
+        "Tên Xã": "ktbn1",
+        "Mã Bưu cục": "ktbn1",
+        "Tên Bưu cục": "ktbn1",
+        "Họ và tên người sử dụng": "ktbn1",
+        "Mã HRM": "ktbn1",
+        "Bộ phận / Phòng ban": "ktbn1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-TTKT-M05",
+        "Loại máy": "Desktop",
+        "Hãng": "GBT___",
+        "Model": "GBTUACPI",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Pentium(R) Dual-Core  CPU      E5400  @ 2.70GHz",
+        "RAM": "4 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.50.118",
+        "MAC Address": "6C:F0:49:A8:8A:C0"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T10:12:16",
+      "updatedAt": "2026-07-03T10:12:16"
     }
   ]
 }
