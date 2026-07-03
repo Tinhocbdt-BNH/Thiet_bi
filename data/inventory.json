@@ -9238,6 +9238,37 @@
       "attachments": [],
       "createdAt": "2026-07-03T10:07:42",
       "updatedAt": "2026-07-03T10:07:42"
+    },
+    {
+      "id": "751ad9b22cbb4fffbc48779a1ae6242a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "ktbn1",
+        "Tên Xã": "ktbn1",
+        "Mã Bưu cục": "ktbn1",
+        "Tên Bưu cục": "ktbn1",
+        "Họ và tên người sử dụng": "ktbn1",
+        "Mã HRM": "ktbn1",
+        "Bộ phận / Phòng ban": "ktbn1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TTKT-MAY24",
+        "Loại máy": "Desktop",
+        "Hãng": "MSI",
+        "Model": "MS-7817",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.50.156",
+        "MAC Address": "D8:CB:8A:1F:14:17"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T10:10:58",
+      "updatedAt": "2026-07-03T10:10:58"
     }
   ]
 }
