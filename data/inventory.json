@@ -9114,6 +9114,37 @@
       ],
       "createdAt": "2026-07-03T09:46:26",
       "updatedAt": "2026-07-03T09:46:26"
+    },
+    {
+      "id": "3bea2e0d385448e7bd526d3327b8ee68",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "ktbn1",
+        "Tên Xã": "ktbn1",
+        "Mã Bưu cục": "ktbn1",
+        "Tên Bưu cục": "ktbn1",
+        "Họ và tên người sử dụng": "ktbn1",
+        "Mã HRM": "ktbn1",
+        "Bộ phận / Phòng ban": "ktbn1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-TTKT-M15",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "233 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.50.117",
+        "MAC Address": "D8:5E:D3:97:5B:98"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T10:03:07",
+      "updatedAt": "2026-07-03T10:03:07"
     }
   ]
 }
