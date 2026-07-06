@@ -3307,37 +3307,6 @@
       "updatedAt": "2026-06-12T03:00:28"
     },
     {
-      "id": "2bcb3b3b874e4d88af9276bb749669f2",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "234000",
-        "Tên Bưu cục": "BC LẠNG GIANG",
-        "Họ và tên người sử dụng": "HOÀNG THỊ THU HUYỀN",
-        "Mã HRM": "00214980",
-        "Bộ phận / Phòng ban": "BƯU ĐIỆN XÃ LẠNG GIANG",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-6LUD3BG",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Pro Mini 400 G9 Desktop PC",
-        "Năm sản xuất": "",
-        "Serial Number": "8CC5231LKN",
-        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "237 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
-        "Office": "Microsoft 365 - en-us",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.21.42.30",
-        "MAC Address": "10:B6:76:9E:C8:AA"
-      },
-      "attachments": [],
-      "createdAt": "2026-06-12T08:58:54",
-      "updatedAt": "2026-06-12T08:58:54"
-    },
-    {
       "id": "90fa5d1e78d74dd588edd894efc4192b",
       "category": "3. Máy Tính",
       "fields": {
