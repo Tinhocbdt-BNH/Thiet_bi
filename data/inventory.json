@@ -7977,43 +7977,6 @@
       "updatedAt": "2026-07-02T02:09:14"
     },
     {
-      "id": "785bb831c5c94391a23be3fec6645e8c",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "2343",
-        "Tên Xã": "Xã Lạng Giang",
-        "Mã Bưu cục": "234000",
-        "Tên Bưu cục": "Lạng Giang",
-        "Họ và tên người sử dụng": "NGUYỄN THỊ HUỆ",
-        "Mã HRM": "00002933",
-        "Bộ phận / Phòng ban": "GDV",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "BGG-LG-GD04",
-        "Loại máy": "Desktop",
-        "Hãng": "RealBom",
-        "Model": "RB-P101G",
-        "Năm sản xuất": "",
-        "Serial Number": "P101GV6821181278",
-        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "120 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.21.42.23",
-        "MAC Address": "50:AF:73:38:21:69"
-      },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "xp 470b",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-07-02T02:14:37",
-      "updatedAt": "2026-07-02T02:14:37"
-    },
-    {
       "id": "2173394c40824f01b0fb090d01c3db3c",
       "category": "3. Máy Tính",
       "fields": {
