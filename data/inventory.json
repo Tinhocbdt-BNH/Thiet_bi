@@ -2153,37 +2153,6 @@
       "updatedAt": "2026-06-12T08:12:28"
     },
     {
-      "id": "f41ad7e97580438c8e150e50d05ad201",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "232500",
-        "Tên Bưu cục": "2327",
-        "Họ và tên người sử dụng": "VŨ THỊ VIỄN",
-        "Mã HRM": "00002756",
-        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI ĐIỂM PHỤC VỤ",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "BGG-SD-GD3",
-        "Loại máy": "Desktop",
-        "Hãng": "RealBom",
-        "Model": "RB-P101G",
-        "Năm sản xuất": "",
-        "Serial Number": "P101GV6821141647",
-        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "121 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Professional Plus 2010",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.200.5.39",
-        "MAC Address": "00:09:0F:AA:00:01"
-      },
-      "attachments": [],
-      "createdAt": "2026-06-12T08:14:50",
-      "updatedAt": "2026-06-12T08:14:50"
-    },
-    {
       "id": "6215b839c85e452ab12f859727eab614",
       "category": "3. Máy Tính",
       "fields": {
