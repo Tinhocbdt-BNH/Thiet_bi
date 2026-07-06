@@ -2420,43 +2420,6 @@
       "updatedAt": "2026-06-12T08:23:41"
     },
     {
-      "id": "b9f43ada86084842b2ea3f4275977d08",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "222880",
-        "Tên Bưu cục": "BC Vận hành QV",
-        "Họ và tên người sử dụng": "Nguyễn Thị Kim",
-        "Mã HRM": "00004915",
-        "Bộ phận / Phòng ban": "BC VH Quế Võ",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-H63RNOQ",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Pro Mini 400 G9 Desktop PC",
-        "Năm sản xuất": "",
-        "Serial Number": "8CC5231LKT",
-        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "236 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
-        "Office": "Microsoft Office Professional Plus 2016",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.16.146.29",
-        "MAC Address": "10:B6:76:9E:C8:B3"
-      },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "ZEBRA",
-          "serial": "ZD620"
-        }
-      ],
-      "createdAt": "2026-06-12T08:23:55",
-      "updatedAt": "2026-06-12T08:23:55"
-    },
-    {
       "id": "59642da6504e4f9588f868f639bdc78a",
       "category": "3. Máy Tính",
       "fields": {
