@@ -1,53 +1,6 @@
 {
   "records": [
     {
-      "id": "29811d57894b47298bb15792fb6511ff",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "220100",
-        "Tên Bưu cục": "Khai thác Bắc Ninh 2",
-        "Họ và tên người sử dụng": "Đỗ Anh Tuấn",
-        "Mã HRM": "00004664",
-        "Bộ phận / Phòng ban": "Khai thác",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "BACNINH-BK",
-        "Loại máy": "Desktop",
-        "Hãng": "Gigabyte Technology Co., Ltd.",
-        "Model": "H110-D3A",
-        "Năm sản xuất": "",
-        "Serial Number": "Default string",
-        "CPU": "Intel(R) Celeron(R) CPU G3930 @ 2.90GHz",
-        "RAM": "7.9 GB",
-        "Ổ cứng": "1170 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft 365 Apps for enterprise - en-us",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.16.141.119",
-        "MAC Address": "1C:1B:0D:59:C1:DF"
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "HP M404",
-          "serial": ""
-        },
-        {
-          "type": "thermal_printer",
-          "name": "Zebra 620d",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "Symlbol LI 4728",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-11T05:52:08",
-      "updatedAt": "2026-06-11T05:52:08"
-    },
-    {
       "id": "29f4ee5209c04ff08567afdd29807989",
       "category": "3. Máy Tính",
       "fields": {
