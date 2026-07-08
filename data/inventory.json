@@ -8581,6 +8581,37 @@
       ],
       "createdAt": "2026-07-03T09:54:01",
       "updatedAt": "2026-07-03T09:54:01"
+    },
+    {
+      "id": "6eca578311024458977effc0c73a8b52",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "2343",
+        "Tên Xã": "Xã Lạng Giang",
+        "Mã Bưu cục": "234000",
+        "Tên Bưu cục": "Lạng Giang",
+        "Họ và tên người sử dụng": "Hoàng Thị Phương",
+        "Mã HRM": "00253970",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG_LG_GSCL",
+        "Loại máy": "Desktop",
+        "Hãng": "ECS",
+        "Model": "H81H3-M3",
+        "Năm sản xuất": "",
+        "Serial Number": "00000000",
+        "CPU": "Intel(R) Pentium(R) CPU G3220 @ 3.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Standard 2013",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.42.125",
+        "MAC Address": "C0:3F:D5:FF:66:A5"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-08T09:33:22",
+      "updatedAt": "2026-07-08T09:33:22"
     }
   ]
 }
