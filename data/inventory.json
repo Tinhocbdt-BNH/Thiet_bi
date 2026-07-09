@@ -8612,6 +8612,43 @@
       "attachments": [],
       "createdAt": "2026-07-08T09:33:22",
       "updatedAt": "2026-07-08T09:33:22"
+    },
+    {
+      "id": "9f67de7a5ca94178b7cefd82fca9d4aa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "Văn phòng",
+        "Tên Bưu cục": "Văn phòng",
+        "Họ và tên người sử dụng": "Nguyễn Minh Như Ngọc",
+        "Mã HRM": "00003358",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDBN-NGOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "704 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.48.93",
+        "MAC Address": "D8:5E:D3:58:0A:C8"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-09T07:32:50",
+      "updatedAt": "2026-07-09T07:32:50"
     }
   ]
 }
