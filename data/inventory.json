@@ -8711,6 +8711,37 @@
       "attachments": [],
       "createdAt": "2026-07-09T07:42:24",
       "updatedAt": "2026-07-09T07:42:24"
+    },
+    {
+      "id": "b49248c83512434e9aca9c0dc6396540",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Tên Bưu cục": "Trung tâm Kinh doanh",
+        "Họ và tên người sử dụng": "Lê Thị Tuấn",
+        "Mã HRM": "00002728",
+        "Bộ phận / Phòng ban": "Trung Tâm Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-KHKD-TUAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-HD2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.48.68",
+        "MAC Address": "E0:D5:5E:0A:77:B8"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-09T07:43:06",
+      "updatedAt": "2026-07-09T07:43:06"
     }
   ]
 }
