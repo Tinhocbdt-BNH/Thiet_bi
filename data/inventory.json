@@ -8680,6 +8680,37 @@
       "attachments": [],
       "createdAt": "2026-07-09T07:34:07",
       "updatedAt": "2026-07-09T07:34:07"
+    },
+    {
+      "id": "4b3bbdad4d1241a681ff62ef5b43da07",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Tên Bưu cục": "Trung Tâm Kinh doanh",
+        "Họ và tên người sử dụng": "Thân Đức Tình",
+        "Mã HRM": "00002727",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-KHKD-TINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3046",
+        "Năm sản xuất": "",
+        "Serial Number": "CWS61H2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1043 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.48.82",
+        "MAC Address": "48:4D:7E:A8:CA:67"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-09T07:42:24",
+      "updatedAt": "2026-07-09T07:42:24"
     }
   ]
 }
