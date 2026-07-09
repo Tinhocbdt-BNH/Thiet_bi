@@ -8773,6 +8773,37 @@
       "attachments": [],
       "createdAt": "2026-07-09T07:47:05",
       "updatedAt": "2026-07-09T07:47:05"
+    },
+    {
+      "id": "bf756e21a73c49789e19bd5d1aab3dce",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "Văn Phòng Bưu điện tỉnh",
+        "Tên Bưu cục": "TT Kinh Doanh",
+        "Họ và tên người sử dụng": "Trần Thị Thu Hiền",
+        "Mã HRM": "00002715",
+        "Bộ phận / Phòng ban": "TT Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-VP-KT-HIEN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3046",
+        "Năm sản xuất": "",
+        "Serial Number": "2SDC1H2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "577 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.48.69",
+        "MAC Address": "48:4D:7E:A6:78:4F"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-09T07:47:40",
+      "updatedAt": "2026-07-09T07:47:40"
     }
   ]
 }
