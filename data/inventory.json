@@ -8649,6 +8649,37 @@
       ],
       "createdAt": "2026-07-09T07:32:50",
       "updatedAt": "2026-07-09T07:32:50"
+    },
+    {
+      "id": "4d2ce3476ac748cfb43c493ce094eb72",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "Văn phòng",
+        "Tên Bưu cục": "VP",
+        "Họ và tên người sử dụng": "Lê Thị Mai",
+        "Mã HRM": "00266845",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-4IEVNB4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3046",
+        "Năm sản xuất": "",
+        "Serial Number": "7S851H2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.48.92",
+        "MAC Address": "48:4D:7E:A7:DF:44"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-09T07:34:07",
+      "updatedAt": "2026-07-09T07:34:07"
     }
   ]
 }
