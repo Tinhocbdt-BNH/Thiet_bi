@@ -8742,6 +8742,37 @@
       "attachments": [],
       "createdAt": "2026-07-09T07:43:06",
       "updatedAt": "2026-07-09T07:43:06"
+    },
+    {
+      "id": "1f0ca1654bf84e7783fe6873723f6bbf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "Văn phòng BĐT",
+        "Tên Bưu cục": "TTKD",
+        "Họ và tên người sử dụng": "Thân Đức Tình",
+        "Mã HRM": "00002727",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-KD-TIEN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2V",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.48.73",
+        "MAC Address": "1C:1B:0D:F8:60:4C"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-09T07:47:05",
+      "updatedAt": "2026-07-09T07:47:05"
     }
   ]
 }
