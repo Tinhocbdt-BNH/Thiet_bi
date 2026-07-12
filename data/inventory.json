@@ -8846,6 +8846,43 @@
       ],
       "createdAt": "2026-07-12T08:01:13",
       "updatedAt": "2026-07-12T08:01:13"
+    },
+    {
+      "id": "05dfed52fb4b44f6a2329bffdc5f6119",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "236600",
+        "Tên Bưu cục": "hh",
+        "Họ và tên người sử dụng": "hh",
+        "Mã HRM": "hh2",
+        "Bộ phận / Phòng ban": "hh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDHH-GD-M05",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G860 @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "352 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.21.46.73",
+        "MAC Address": "0A:E0:AF:A4:20:9A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-12T08:04:58",
+      "updatedAt": "2026-07-12T08:04:58"
     }
   ]
 }
