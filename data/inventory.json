@@ -8999,6 +8999,48 @@
       ],
       "createdAt": "2026-07-12T08:14:23",
       "updatedAt": "2026-07-12T08:14:23"
+    },
+    {
+      "id": "18242c3f60fd49609ded9fb78b1f1291",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "236710",
+        "Tên Bưu cục": "bcp Hieepj Hoaf",
+        "Họ và tên người sử dụng": "hh",
+        "Mã HRM": "hh7",
+        "Bộ phận / Phòng ban": "bc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BG-HH-BCP-M04",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZW41H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.21.46.113",
+        "MAC Address": "48:4D:7E:DE:2E:31"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xpprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ds2278",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-12T09:01:28",
+      "updatedAt": "2026-07-12T09:01:28"
     }
   ]
 }
