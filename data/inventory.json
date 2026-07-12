@@ -8957,6 +8957,48 @@
       ],
       "createdAt": "2026-07-12T08:11:34",
       "updatedAt": "2026-07-12T08:11:34"
+    },
+    {
+      "id": "60f46e0f2db645599ee63996b30d65f5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "236600",
+        "Tên Bưu cục": "hh",
+        "Họ và tên người sử dụng": "hh",
+        "Mã HRM": "hh5",
+        "Bộ phận / Phòng ban": "hh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-APF902I",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221PQ",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.21.46.116",
+        "MAC Address": "10:B6:76:9E:21:98"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honey",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-12T08:14:23",
+      "updatedAt": "2026-07-12T08:14:23"
     }
   ]
 }
