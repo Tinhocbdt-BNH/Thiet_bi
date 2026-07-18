@@ -8959,6 +8959,48 @@
       ],
       "createdAt": "2026-07-12T09:03:56",
       "updatedAt": "2026-07-12T09:03:56"
+    },
+    {
+      "id": "786e5e4e2b3c4101beb9c6868d3a92e5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "236930",
+        "Tên Bưu cục": "Phố Hoa",
+        "Họ và tên người sử dụng": "GDV",
+        "Mã HRM": "BG1",
+        "Bộ phận / Phòng ban": "Phố Hoa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BGG-PHOHOA2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BCFQ8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.12",
+        "MAC Address": "B8:85:84:B1:44:3F"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "LS 2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-18T02:26:06",
+      "updatedAt": "2026-07-18T02:26:06"
     }
   ]
 }
