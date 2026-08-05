@@ -9121,6 +9121,43 @@
       ],
       "createdAt": "2026-08-05T02:22:08",
       "updatedAt": "2026-08-05T02:22:08"
+    },
+    {
+      "id": "9d46c58f1fc84bfeaf8a68f0da637f7d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "221980",
+        "Tên Bưu cục": "VHX Tân Chi",
+        "Họ và tên người sử dụng": "VHX Tân Chi",
+        "Mã HRM": "00001111",
+        "Bộ phận / Phòng ban": "VHX Tân Chi",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-GB6H16L",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "BZT8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "F8:BC:12:A2:D6:70"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZD 620",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-04T14:25:00",
+      "updatedAt": "2026-08-04T14:25:00"
     }
   ]
 }
